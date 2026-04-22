@@ -20,8 +20,12 @@ from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path
 
-import matplotlib.pyplot as plt
 import networkx as nx
+
+try:
+    from pyvis.network import Network
+except ModuleNotFoundError:
+    Network = None
 
 from src.constants import (
     ACOMPANHAMENTO_HINTS,
@@ -43,14 +47,18 @@ class MenuItem:
 
 def normalize_text(text: str) -> str:
     text = text.lower()
-    text = "".join(c for c in unicodedata.normalize("NFD", text) if unicodedata.category(c) != "Mn")
+    text = "".join(
+        c for c in unicodedata.normalize("NFD", text) if unicodedata.category(c) != "Mn"
+    )
     text = re.sub(r"[^a-z0-9\s]", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
 def extract_candidate_terms(text: str, max_ngram: int = 3) -> set[str]:
     tokens = [
-        token for token in normalize_text(text).split() if len(token) >= 3 and token not in AUTO_STOPWORDS and not token.isdigit()
+        token
+        for token in normalize_text(text).split()
+        if len(token) >= 3 and token not in AUTO_STOPWORDS and not token.isdigit()
     ]
 
     terms: set[str] = set()
@@ -90,9 +98,15 @@ def item_is_excluded(prato: str, descricao: str) -> bool:
     return any(keyword in full for keyword in AUTO_EXCLUDED_KEYWORDS)
 
 
-def build_expanded_lexicon(menu_items: list[MenuItem], min_term_freq: int = 3) -> tuple[dict[str, list[str]], dict[str, int]]:
-    expanded = {category: list(terms) for category, terms in ACTIVE_ENTITY_LEXICON.items()}
-    existing_terms = {normalize_text(term) for terms in expanded.values() for term in terms}
+def build_expanded_lexicon(
+    menu_items: list[MenuItem], min_term_freq: int = 3
+) -> tuple[dict[str, list[str]], dict[str, int]]:
+    expanded = {
+        category: list(terms) for category, terms in ACTIVE_ENTITY_LEXICON.items()
+    }
+    existing_terms = {
+        normalize_text(term) for terms in expanded.values() for term in terms
+    }
 
     counts: Counter[str] = Counter()
     for item in menu_items:
@@ -164,11 +178,17 @@ def extract_entities(prato: str, descricao: str) -> dict[str, set[str]]:
 
 def merged_non_prato_entities(item: MenuItem) -> set[str]:
     entities = extract_entities(item.prato, item.descricao)
-    merged = set(entities["INGREDIENTE"]) | set(entities["ACOMPANHAMENTO"]) | set(entities["MOLHO_TECNICA"])
+    merged = (
+        set(entities["INGREDIENTE"])
+        | set(entities["ACOMPANHAMENTO"])
+        | set(entities["MOLHO_TECNICA"])
+    )
     return merged
 
 
-def filter_low_information_items(menu_items: list[MenuItem], min_non_prato_entities: int = 2) -> tuple[list[MenuItem], int]:
+def filter_low_information_items(
+    menu_items: list[MenuItem], min_non_prato_entities: int = 2
+) -> tuple[list[MenuItem], int]:
     filtered: list[MenuItem] = []
     dropped = 0
     for item in menu_items:
@@ -185,7 +205,9 @@ def build_graph(
     min_non_prato_entities: int = 2,
 ) -> nx.Graph:
     graph = nx.Graph()
-    valid_items, _ = filter_low_information_items(menu_items, min_non_prato_entities=min_non_prato_entities)
+    valid_items, _ = filter_low_information_items(
+        menu_items, min_non_prato_entities=min_non_prato_entities
+    )
 
     for item in valid_items:
         entities = extract_entities(item.prato, item.descricao)
@@ -209,7 +231,9 @@ def build_graph(
     return graph
 
 
-def build_core_graph(graph: nx.Graph, min_node_count: int = 2, min_edge_weight: int = 2) -> nx.Graph:
+def build_core_graph(
+    graph: nx.Graph, min_node_count: int = 2, min_edge_weight: int = 2
+) -> nx.Graph:
     core = nx.Graph()
     for u, v, data in graph.edges(data=True):
         w = int(data.get("weight", 1))
@@ -230,7 +254,9 @@ def build_core_graph(graph: nx.Graph, min_node_count: int = 2, min_edge_weight: 
     return core.subgraph(largest).copy()
 
 
-def build_summary_graph(graph: nx.Graph, top_nodes: int = 120, min_edge_weight: int = 2) -> nx.Graph:
+def build_summary_graph(
+    graph: nx.Graph, top_nodes: int = 120, min_edge_weight: int = 2
+) -> nx.Graph:
     if graph.number_of_nodes() == 0 or top_nodes <= 0:
         return nx.Graph()
 
@@ -243,7 +269,11 @@ def build_summary_graph(graph: nx.Graph, top_nodes: int = 120, min_edge_weight: 
     summary = graph.subgraph(selected_nodes).copy()
 
     if min_edge_weight > 1:
-        weak_edges = [(u, v) for u, v, data in summary.edges(data=True) if int(data.get("weight", 1)) < min_edge_weight]
+        weak_edges = [
+            (u, v)
+            for u, v, data in summary.edges(data=True)
+            if int(data.get("weight", 1)) < min_edge_weight
+        ]
         summary.remove_edges_from(weak_edges)
 
     isolated = list(nx.isolates(summary))
@@ -288,7 +318,9 @@ def weighted_edge_vector(graph: nx.Graph) -> dict[tuple[str, str], float]:
     return result
 
 
-def cosine_similarity_sparse(vector_a: dict[tuple[str, str], float], vector_b: dict[tuple[str, str], float]) -> float:
+def cosine_similarity_sparse(
+    vector_a: dict[tuple[str, str], float], vector_b: dict[tuple[str, str], float]
+) -> float:
     all_keys = set(vector_a) | set(vector_b)
     if not all_keys:
         return 0.0
@@ -314,7 +346,9 @@ def compare_graphs(graph_a: nx.Graph, graph_b: nx.Graph) -> dict[str, float]:
 
     jaccard_nodes = len(inter_nodes) / len(union_nodes) if union_nodes else 0.0
     jaccard_edges = len(inter_edges) / len(union_edges) if union_edges else 0.0
-    cosine_weighted = cosine_similarity_sparse(weighted_edge_vector(graph_a), weighted_edge_vector(graph_b))
+    cosine_weighted = cosine_similarity_sparse(
+        weighted_edge_vector(graph_a), weighted_edge_vector(graph_b)
+    )
 
     return {
         "jaccard_nodes": jaccard_nodes,
@@ -352,30 +386,67 @@ def compare_dishes(
     return scores[:top_k]
 
 
-def plot_graph(graph: nx.Graph, title: str, output_file: Path) -> None:
-    if graph.number_of_nodes() > 80:
-        node_sizes = [800 for _ in graph.nodes()]
-        font_size = 7
-    else:
-        node_sizes = [1000 for _ in graph.nodes()]
-        font_size = 8
+def plot_graph_interactive(graph: nx.Graph, title: str, output_file: Path) -> bool:
+    if Network is None:
+        return False
 
-    plt.figure(figsize=(10, 7))
-    try:
-        pos = nx.spring_layout(graph, seed=42, weight="weight")
-    except ModuleNotFoundError:
-        # Fallback sem SciPy para grafos muito grandes.
-        pos = nx.circular_layout(graph)
-    widths = [graph[u][v].get("weight", 1) for u, v in graph.edges()]
-    nx.draw_networkx_nodes(graph, pos, node_size=node_sizes, alpha=0.9)
-    nx.draw_networkx_edges(graph, pos, width=widths, alpha=0.35)
-    nx.draw_networkx_labels(graph, pos, font_size=font_size)
-    plt.title(title)
-    plt.axis("off")
+    net = Network(
+        height="800px",
+        width="100%",
+        bgcolor="#ffffff",
+        font_color="#1f2937",
+    )
+    net.barnes_hut(
+        gravity=-2400,
+        central_gravity=0.2,
+        spring_length=140,
+        spring_strength=0.03,
+        damping=0.09,
+    )
+
+    for node, data in graph.nodes(data=True):
+        count = int(data.get("count", 1))
+        size = 12 + min(count, 18)
+        net.add_node(
+            node,
+            label=str(node),
+            title=f"{node}<br>Frequencia: {count}",
+            value=size,
+        )
+
+    for u, v, data in graph.edges(data=True):
+        weight = int(data.get("weight", 1))
+        net.add_edge(
+            u,
+            v,
+            value=weight,
+            width=max(1, min(weight, 8)),
+            title=f"Co-ocorrencias: {weight}",
+        )
+
+    net.toggle_physics(True)
+    net.set_options(
+        """
+        var options = {
+          "interaction": {
+            "hover": true,
+            "tooltipDelay": 180,
+            "navigationButtons": true,
+            "keyboard": true
+          },
+          "edges": {
+            "smooth": false,
+            "color": {
+              "inherit": true
+            }
+          }
+        }
+        """
+    )
+
     output_file.parent.mkdir(parents=True, exist_ok=True)
-    plt.tight_layout()
-    plt.savefig(output_file, dpi=180)
-    plt.close()
+    net.write_html(str(output_file), notebook=False, open_browser=False)
+    return True
 
 
 def print_metrics(label: str, metrics: dict[str, float]) -> None:
@@ -389,7 +460,10 @@ def print_metrics(label: str, metrics: dict[str, float]) -> None:
 
 def top_nodes_by_count(graph: nx.Graph, top_k: int = 20) -> list[tuple[str, int]]:
     ranked = sorted(
-        ((str(node), int(data.get("count", 1))) for node, data in graph.nodes(data=True)),
+        (
+            (str(node), int(data.get("count", 1)))
+            for node, data in graph.nodes(data=True)
+        ),
         key=lambda row: row[1],
         reverse=True,
     )
@@ -405,7 +479,9 @@ def print_graph_diagnostics(
 ) -> None:
     print(f"\n=== Diagnostico - {label} ===")
     print(f"Nos unicos no grafo: {graph.number_of_nodes()}")
-    print(f"Descartes por filtro: ruido/bebidas={dropped_noise}, baixa-informacao(min-entidades)={dropped_low_info}")
+    print(
+        f"Descartes por filtro: ruido/bebidas={dropped_noise}, baixa-informacao(min-entidades)={dropped_low_info}"
+    )
 
     top_nodes = top_nodes_by_count(graph, top_k=top_k)
     print(f"Top {len(top_nodes)} nos por frequencia:")
@@ -416,7 +492,9 @@ def print_graph_diagnostics(
 def main() -> None:
     global ACTIVE_ENTITY_LEXICON
 
-    parser = argparse.ArgumentParser(description="Analise de semelhanca estrutural entre cardapios com grafos de co-ocorrencia")
+    parser = argparse.ArgumentParser(
+        description="Analise de semelhanca estrutural entre cardapios com grafos de co-ocorrencia"
+    )
     parser.add_argument(
         "--camaroes",
         type=Path,
@@ -483,12 +561,20 @@ def main() -> None:
 
     menu_camaroes_raw_count = len(menu_camaroes)
     menu_coco_raw_count = len(menu_coco)
-    menu_camaroes = [item for item in menu_camaroes if not item_is_excluded(item.prato, item.descricao)]
-    menu_coco = [item for item in menu_coco if not item_is_excluded(item.prato, item.descricao)]
+    menu_camaroes = [
+        item
+        for item in menu_camaroes
+        if not item_is_excluded(item.prato, item.descricao)
+    ]
+    menu_coco = [
+        item for item in menu_coco if not item_is_excluded(item.prato, item.descricao)
+    ]
     dropped_noise_camaroes = menu_camaroes_raw_count - len(menu_camaroes)
     dropped_noise_coco = menu_coco_raw_count - len(menu_coco)
 
-    ACTIVE_ENTITY_LEXICON = {category: list(terms) for category, terms in ACTIVE_ENTITY_LEXICON.items()}
+    ACTIVE_ENTITY_LEXICON = {
+        category: list(terms) for category, terms in ACTIVE_ENTITY_LEXICON.items()
+    }
     if args.auto_expand_lexicon:
         ACTIVE_ENTITY_LEXICON, added_by_category = build_expanded_lexicon(
             menu_camaroes + menu_coco,
@@ -496,7 +582,9 @@ def main() -> None:
         )
         total_added = sum(added_by_category.values())
         print("\n=== Lexico de Entidades ===")
-        print(f"Expansao automatica ativada (freq minima={args.auto_min_freq}). Novos termos: {total_added}")
+        print(
+            f"Expansao automatica ativada (freq minima={args.auto_min_freq}). Novos termos: {total_added}"
+        )
         print(
             "Distribuicao: "
             f"INGREDIENTE={added_by_category['INGREDIENTE']}, "
@@ -507,7 +595,9 @@ def main() -> None:
     menu_camaroes_filtered, dropped_camaroes = filter_low_information_items(
         menu_camaroes, min_non_prato_entities=args.min_entities
     )
-    menu_coco_filtered, dropped_coco = filter_low_information_items(menu_coco, min_non_prato_entities=args.min_entities)
+    menu_coco_filtered, dropped_coco = filter_low_information_items(
+        menu_coco, min_non_prato_entities=args.min_entities
+    )
 
     graph_camaroes = build_graph(
         menu_camaroes_filtered,
@@ -538,8 +628,12 @@ def main() -> None:
     print_metrics("Camaroes", metrics_camaroes)
     print_metrics("Coco Bambu", metrics_coco)
     print("\n=== Qualidade da Base ===")
-    print(f"Camaroes: {len(menu_camaroes_filtered)} pratos usados, {dropped_noise_camaroes + dropped_camaroes} descartados")
-    print(f"Coco Bambu: {len(menu_coco_filtered)} pratos usados, {dropped_noise_coco + dropped_coco} descartados")
+    print(
+        f"Camaroes: {len(menu_camaroes_filtered)} pratos usados, {dropped_noise_camaroes + dropped_camaroes} descartados"
+    )
+    print(
+        f"Coco Bambu: {len(menu_coco_filtered)} pratos usados, {dropped_noise_coco + dropped_coco} descartados"
+    )
     print_graph_diagnostics(
         "Camaroes",
         graph_camaroes,
@@ -558,7 +652,9 @@ def main() -> None:
     print("\n=== Similaridade entre Grafos ===")
     print(f"Jaccard de nos: {metrics_compare['jaccard_nodes']:.4f}")
     print(f"Jaccard de arestas: {metrics_compare['jaccard_edges']:.4f}")
-    print(f"Cosseno ponderado (arestas): {metrics_compare['cosine_weighted_edges']:.4f}")
+    print(
+        f"Cosseno ponderado (arestas): {metrics_compare['cosine_weighted_edges']:.4f}"
+    )
     print(f"Nos compartilhados: {int(metrics_compare['shared_nodes'])}")
     print(f"Arestas compartilhadas: {int(metrics_compare['shared_edges'])}")
 
@@ -569,17 +665,6 @@ def main() -> None:
         min_entities_per_dish=args.min_entities,
     ):
         print(f"{prato_a}  <->  {prato_b} | Jaccard: {score:.4f}")
-
-    plot_graph(
-        graph_camaroes_core,
-        "Grafo de Co-ocorrencia (Nucleo) - Camaroes",
-        args.output / "grafo_camaroes.png",
-    )
-    plot_graph(
-        graph_coco_core,
-        "Grafo de Co-ocorrencia (Nucleo) - Coco Bambu",
-        args.output / "grafo_coco_bambu.png",
-    )
 
     graph_camaroes_summary = build_summary_graph(
         graph_camaroes,
@@ -592,22 +677,41 @@ def main() -> None:
         min_edge_weight=args.summary_min_edge_weight,
     )
 
-    plot_graph(
+    interactive_outputs: list[Path] = []
+    if plot_graph_interactive(
+        graph_camaroes_core,
+        "Grafo Interativo (Nucleo) - Camaroes",
+        args.output / "grafo_camaroes.html",
+    ):
+        interactive_outputs.append(args.output / "grafo_camaroes.html")
+    if plot_graph_interactive(
+        graph_coco_core,
+        "Grafo Interativo (Nucleo) - Coco Bambu",
+        args.output / "grafo_coco_bambu.html",
+    ):
+        interactive_outputs.append(args.output / "grafo_coco_bambu.html")
+    if plot_graph_interactive(
         graph_camaroes_summary,
-        "Grafo Resumo (Top Nos) - Camaroes",
-        args.output / "grafo_camaroes_resumo.png",
-    )
-    plot_graph(
+        "Grafo Interativo Resumo - Camaroes",
+        args.output / "grafo_camaroes_resumo.html",
+    ):
+        interactive_outputs.append(args.output / "grafo_camaroes_resumo.html")
+    if plot_graph_interactive(
         graph_coco_summary,
-        "Grafo Resumo (Top Nos) - Coco Bambu",
-        args.output / "grafo_coco_bambu_resumo.png",
-    )
+        "Grafo Interativo Resumo - Coco Bambu",
+        args.output / "grafo_coco_bambu_resumo.html",
+    ):
+        interactive_outputs.append(args.output / "grafo_coco_bambu_resumo.html")
 
-    print("\nFiguras geradas em:")
-    print(f"- {args.output / 'grafo_camaroes.png'}")
-    print(f"- {args.output / 'grafo_coco_bambu.png'}")
-    print(f"- {args.output / 'grafo_camaroes_resumo.png'}")
-    print(f"- {args.output / 'grafo_coco_bambu_resumo.png'}")
+    print("\nArquivos de visualizacao gerados em:")
+    if interactive_outputs:
+        print("\nVisualizacoes interativas (PyVis) geradas em:")
+        for path in interactive_outputs:
+            print(f"- {path}")
+    else:
+        print(
+            "\nPyVis nao encontrado no ambiente. As visualizacoes interativas nao foram geradas."
+        )
 
 
 if __name__ == "__main__":
