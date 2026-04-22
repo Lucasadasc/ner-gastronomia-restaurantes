@@ -1,0 +1,914 @@
+[
+  {
+    "restaurante": "Camaroes",
+    "prato": "COUVERT",
+    "descricao": "Cesta com pães aesanais e pastas (gorgonzola com frutas vermelhas; cream cheese com pralinè de castanhas; tomate seco com bacon).",
+    "preco": "31"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PASTEL DE CAMARÃO/unidade",
+    "descricao": "",
+    "preco": "18 | 26"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PASTEL DE CARNE DE SOL/unidade",
+    "descricao": "Carne de sol, queijo de coalho, cebola roxa e coentro.",
+    "preco": "14 | 23"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PASTEL DE QUEIJO COALHO/unidade",
+    "descricao": "",
+    "preco": "12 | 21"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "BRUSCHETTA POTIGUAR/4 ou 8 unidades",
+    "descricao": "Dadinhos de tapioca coroados com creme formaggio, camarão grelhado, toque de pimenta agridoce e o de mel de engenho.",
+    "preco": "29 | 51"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CASQUINHO DE CARANGUEJO/sob consulta",
+    "descricao": "Carne de caranguejo refogada com azeite, tomate, cebola, coentro e leite de coco. Cobea com farofa.",
+    "preco": "23"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAPRESE DE CAMARÃO",
+    "descricao": "Camarão ao pesto cobeo com molho de tomate fresco e espuma de parmesão. Acompanha torradas.",
+    "preco": "25 | 43"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CEVICHE DE PEIXE E CAMARÃO",
+    "descricao": "Camarão e peixe marinados com azeite, suco de limão, cebola roxa, pimentões e coentro. Acompanha chips de batata doce.",
+    "preco": "23 | 38"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CEVICHE DE CAJU (VEGANO)/sob consulta",
+    "descricao": "Caju marinado com azeite, suco de limão, leite de coco, castanha, cebola roxa, pimentões, tomate cereja e coentro. Acompanha chips de batata doce.",
+    "preco": "17 | 28"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "ESCONDIDINHO DE CAMARÃO",
+    "descricao": "Camarão refogado na manteiga do seão com tomate, nata fresca e coentro. Cobeo com purê de macaxeira e gratinado com queijo de coalho.",
+    "preco": "31"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "ESCONDIDINHO DE CARNE DE SOL",
+    "descricao": "Carne de sol desada e refogada na manteiga do seão com cebola roxa, nata fresca e coentro. Cobea com purê de macaxeira e gratinada com queijo de coalho.",
+    "preco": "29"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO PONTA NEGRA/8 unidades",
+    "descricao": "Camarão empanado recheado com catupiry e ervas. Acompanha molho golf e geleia de pimenta agridoce.",
+    "preco": "75"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO 294/250g",
+    "descricao": "Homenagem a um tradicional e querido bar potiguar. Camarão salteado na manteiga do seão, nalizado com nata fresca e coentro. Acompanha torradas.",
+    "preco": "82"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO ESTRELA DO MAR/250g",
+    "descricao": "Camarão empanado com gergelim, servido com molhos golf e aioli com páprica.",
+    "preco": "83"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "POLVO MAR E SERTÃO/200g",
+    "descricao": "Tentáculos de polvo (coados) salteados na manteiga do seão com cebola roxa, tomate, alcaparras, nata fresca e coentro. Acompanha torradas. Camarão, catupiry e ervas.",
+    "preco": "99"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "BATATA TRUFADA",
+    "descricao": "Batata frita ninha temperada com sal, parmesão e azeite trufado. Acompanha maionese caseira. MONTE SEU PRATO PRINCIPAIS/100g de proteína in natura Filé mignon (em cubos) grelhado.",
+    "preco": "40"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILEZINHO",
+    "descricao": "Filé de peixe (em cubos) grelhado.",
+    "preco": "54"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PEIXE KIDS",
+    "descricao": "Filé de peito de frango (em fatias) grelhado.",
+    "preco": "49"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FRANGO KIDS",
+    "descricao": "Filezinho de camarão grelhado.",
+    "preco": "38"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO KIDS",
+    "descricao": "Filezinho de camarão à milanesa.",
+    "preco": "54"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO KIDS EMPANADO",
+    "descricao": "Filé mignon (em cubos) à milanesa, com molho de tomate gratinado com queijo.",
+    "preco": "54"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PARMEGIANITO",
+    "descricao": "até 12 anos por Petit Poti a pair dos 6 meses Em parceria com Petit Poti, restaurante potiguar especialista em comida para bebês e introdução alimentar, um espaço dedicado aos nossos pequenos clientes. Sem adição de sal, açúcar, glúten, leite e derivados. Comidinhas feitas com sabor, segurança e muito amor. Todo em textura de purê. Ragú de carne bovina, feijão preto, jerimum, brócolis e banana da terra.",
+    "preco": "52"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PÊ-É-FINHO BRASILEIRO",
+    "descricao": "Arroz agulhinha com creme de milho e inhame, lé de peito de frango desadinho, brócolis, ervilha, cenoura, abobrinha e tomate.",
+    "preco": "39"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RISOTINHO DE FRANGO COM LEGUMES",
+    "descricao": "Massa fusilli de arroz, músculo moído com cenoura, abobrinha e tomate com o super molho vermelho꞉ feito com tomate, cenoura e beterraba.",
+    "preco": "42"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PARAFUSINHO À BOLONHESA",
+    "descricao": "Um creminho nutritivo e delicioso, feito com cacau 100% puro, leite de coco caseiro, batata-doce e uva-passa branca.",
+    "preco": "45"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MOUSSE DE CACAU",
+    "descricao": "ARROZ BRANCO ARROZ COM BRÓCOLIS ARROZ CREMOSO COM QUEIJO PURÊ DE BATATA BATATA FRITA LEGUMES NO VAPOR FETTUCCINE NO AZEITE FETTUCCINE AO MOLHO DE TOMATE FETTUCCINE AO MOLHO BRANCO PALITINHOS CROCANTES DE QUEIJO COALHO Escolha 2 opções. Para mais informações, solicite tabela nutricional completa. Não realizamos modicações nos pratos. Escolha uma proteína e dois acompanhamentos. &vegano",
+    "preco": "28"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SALADA PROVENÇAL",
+    "descricao": "Alface, cenoura, palmito, tomate seco, mozarela de búfala e crocante de parmesão. Acompanha molho de iogue e torradas gratinadas.",
+    "preco": "62"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SALADA DE GORGONZOLA COM PERA",
+    "descricao": "Fatias de pera assadas, queijo gorgonzola e mix de nuts temperadas. Servidas com alface, cenoura, palmito, tomate ao azeite de ervas e alho. Acompanha molho de mel de engenho e torradas gratinadas.",
+    "preco": "58"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SALADA DE FRANGO",
+    "descricao": "Peito de frango (150g) marinado com mostarda e ervas e grelhado. Servido com alface, cenoura, palmito, tomate ao azeite de ervas e alho e crocante de parmesão. Acompanha molho de mostarda e mel e torradas gratinadas.",
+    "preco": "59"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SALADA DE CAMARÃO",
+    "descricao": "Camarão grelhado (180g) servido com com alface, cenoura, palmito, tomate ao azeite de ervas e alho e crocante de parmesão. Acompanha molho de iogue com ervas e torradas gratinadas.",
+    "preco": "78"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RISOTO POMODORO (VEGANO)",
+    "descricao": "Risoto de cogumelos com tomate fresco, brócolis, molho de tomate e castanha de caju.",
+    "preco": "57"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FETTUCCINE AO CREME DE CASTANHA (VEGANO)",
+    "descricao": "Feuccine ao bechamel de castanhas de caju com julienne de legumes, tomate seco e brócolis. Finalizado com azeite de ervas e mix de nuts temperadas. Intolerantes e alérgicos꞉ dispomos de equipamentos e utensílios exclusivos para alérgicos e nos dedicamos a adaptar nossas receitas à sua restrição. No entanto, há traços de glúten, lactose e castanhas em nossa cozinha. Além disso, as descrições dos pratos podem não listar todos os ingredientes. Solicite a presença de nosso maître para dúvidas e recomendações.",
+    "preco": "52"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RISOTO BRIE (VEGETARIANO)",
+    "descricao": "Risoto de queijo brie, damasco, abobrinha e amêndoas. Servido com molho de frutas vermelhas.",
+    "preco": "54"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MOQUECA VEGANA",
+    "descricao": "Jerimum, batata e banana da terra (sazonal) ao molho moqueca, com leite de coco, castanha de caju e cheiro verde. Acompanha arroz branco. PARA DUAS PESSOAS/250g camarões",
+    "preco": "50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO À GREGA",
+    "descricao": "Camarão à milanesa, servido sobre arroz à grega (ervilha, cenoura, presunto e uva passa), cobeo com molho de tomate e gratinado com queijo mozarela. Acompanha batata palha.",
+    "preco": "130"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO INTERNACIONAL",
+    "descricao": "Camarão salteado com molho branco, servido sobre arroz cremoso com ervilha e presunto. Gratinado com queijos mozarela e parmesão. Acompanha batata palha.",
+    "preco": "129"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO DO CHEF",
+    "descricao": "Camarão à milanesa, servido sobre arroz cremoso de manjericão e cobeo com molho de tomate, azeitona preta e orégano. Gratinado com queijo mozarela. Acompanha batata palha. Camarão refogado na manteiga do seão com verduras, nata fresca e coentro. Servido sobre arroz cremoso da terra e gratinado com queijo de coalho. Acompanha macaxeira frita.",
+    "preco": "140"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO DIJON",
+    "descricao": "Camarão salteado com vinho branco, molho branco, palmito e mostarda Dijon em grãos, servido sobre arroz cremoso com julienne de legumes e ervilha. Gratinado com queijos mozarela e parmesão. Acompanha batata palha.",
+    "preco": "130"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO GRATIN",
+    "descricao": "CAMARÃO CANTO",
+    "preco": "129"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "DO MANGUE/sob consulta",
+    "descricao": "Camarão salteado na manteiga do seão com molho de camarão, tomate, cebola roxa e coentro. Servido sobre arroz de caranguejo e gratinado com queijo de coalho. Acompanha macaxeira frita.",
+    "preco": "152"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO SERIDÓ",
+    "descricao": "Camarão salteado com molho branco, vinho branco, cebola roxa, tomate cereja e ervas. Servido sobre arroz cremoso com alho-poró e tomate seco, gratinado com queijos catupiry e parmesão. Acompanha batata frita com páprica. Intolerantes e alérgicos꞉ dispomos de equipamentos e utensílios exclusivos para alérgicos e nos dedicamos a adaptar nossas receitas à sua restrição. No entanto, há traços de glúten, lactose e castanhas em nossa cozinha. Além disso, as descrições dos pratos podem não listar todos os ingredientes. Solicite a presença de nosso maître para dúvidas e recomendações.",
+    "preco": "125"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO IMPERIAL",
+    "descricao": "Camarão empanado, recheado com catupiry e ervas. Acompanha arroz cremoso com queijo parmesão, vinho branco, bacon, julienne de legumes e, à pae, geleia de pimenta agridoce.",
+    "preco": "179"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO DOM ALFREDO",
+    "descricao": "Camarão grelhado, servido sobre feuccine ao molho cremoso com queijo parmesão, vinho branco, bacon e julienne de legumes. Cobeo com farofa de pão, bacon e ervas.",
+    "preco": "142"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO BONFIM",
+    "descricao": "Camarão salteado na manteiga do seão com cebola roxa, tomate, castanha de caju, pimenta biquinho, queijo de coalho assado e coentro. Servido com risoto de vatapá com toque de azeite de dendê.",
+    "preco": "134"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO FLOR DE SAL",
+    "descricao": "Camarão grelhado, regado com azeite de ervas, tomate cereja, mozarela de búfala e or de sal. Acompanha arroz com amêndoas e legumes grelhados com batata formaggio com bacon.",
+    "preco": "156"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO CIDADE DO SOL",
+    "descricao": "Camarão empanado com mix de panko, parmesão e ervas. Acompanha risoto de provolone com azeite trufado, crispy de alho-poró e geleia de damasco.",
+    "preco": "148"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO ALL’AMATRICIANA",
+    "descricao": "Camarão salteado com tomate seco, azeitona preta e assado com farofa de ervas e parmesão. Acompanha risoto de tomate com bacon e manjericão.",
+    "preco": "135"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RISONI DE CAMARÃO E COGUMELOS",
+    "descricao": "Camarão salteado com cebola roxa, alho-poró, mix de cogumelos e raspas de limão siciliano. Servido sobre risoni (massa grano duro com formato de arroz) ao molho de camarão e parmesão.",
+    "preco": "134"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO COM NHOQUE CROCANTE",
+    "descricao": "Camarão ambado e salteado com alho, cebola caramelizada, tomate cereja, brócolis, nata fresca, toque de molho de tomate e bacon. Acompanha nhoque de macaxeira frito sobre fondue de queijos.",
+    "preco": "136"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO TERRA BRASILIS",
+    "descricao": "Camarão salteado com manteiga de ervas, cebola caramelizada, pimenta biquinho e queijo de coalho, servido sobre risoto de banana da terra. Finalizado com castanha do Pará assada, cebolinha e redução de mel de engenho. CAMARÃO COM QUINOA Camarão grelhado com molho de nata, limão siciliano e coentro, servido sobre quinoa com legumes, grãos, maçã verde e bacon. Acompanha purê de banana da terra nalizado com castanha de caju. NHOQUE DE BANANA DA TERRA Nhoque de banana da terra com camarões grelhados, salteados com molho de nata, cebola roxa e cebolinha, cobeos com crispy de carne de sol. Acompanha palitinhos de queijo coalho crocantes.",
+    "preco": "135"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO TERYIAKI",
+    "descricao": "Camarão salteado com molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio.",
+    "preco": "142"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "GRELHADOS DO MAR",
+    "descricao": "Frutos do mar (camarão, peixe, lula e polvo) grelhados, servidos com arroz com brócolis e legumes salteados com batata formaggio com bacon.",
+    "preco": "184"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MOQUECA DO MAR",
+    "descricao": "Frutos do mar (camarão, peixe, lula e polvo) refogados com tomate, cebola, pimentão, leite de coco, coentro e leve toque de azeite de dendê. Acompanha arroz branco, pirão de peixe e farofa.",
+    "preco": "192"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FRUTOS DO MAR AO AZEITE DE ERVAS",
+    "descricao": "Frutos do mar (camarão, peixe, lula e polvo) grelhados, regados com molho de azeite de ervas, champignon, alcaparras e tomate cereja. Acompanha risoto de limão siciliano com abobrinha e gergelim.",
+    "preco": "189"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RISOTO DE POLVO E CAMARÃO",
+    "descricao": "Arroz arbóreo com polvo em seu próprio caldo, servido com camarão grelhado e molho aioli com leve toque de páprica defumada. frutosdo marPARA DUAS PESSOAS TILÁPIA VILA FLOR peixesPARA DUAS PESSOAS/300g",
+    "preco": "224"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PEIXE TROPICAL",
+    "descricao": "Peixe empanado com gergelim, servido sobre molho cremoso de manga. Acompanha arroz com brócolis e purê de batata. PEIXE COM AMÊNDOAS Peixe grelhado, regado com molho de manteiga com amêndoas. Servido com risoto de limão siciliano com abobrinha e gergelim.",
+    "preco": "104 | 126 | 169"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SALMÃO TROPICAL",
+    "descricao": "Salmão com crosta de gergelim, servido sobre molho cremoso de manga. Acompanha arroz com brócolis e purê de batata.",
+    "preco": "136"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PEIXE GRELHADO",
+    "descricao": "Peixe grelhado, servido com arroz com brócolis e legumes salteados com batata formaggio com bacon.",
+    "preco": "94 | 122 | 165"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PEIXE VILA FLOR",
+    "descricao": "Peixe grelhado, regado com molho de manteiga com castanha do Pará laminada sobre julienne de legumes. Acompanha arroz com brócolis e purê de banana da terra nalizado com castanha de caju. PEIXE COM QUINOA Peixe grelhado com molho de nata, limão siciliano e coentro, servido sobre quinoa com legumes, grãos, maçã verde e bacon. Acompanha purê de banana da terra nalizado com castanha de caju. T I L Á P I A D O U R A D O S I R I G A D O AS ESPÉCIES PODEM VARIAR CONFORME SAZONALIDADE E PERÍODOS LEGAIS DE PESCA T I L Á P I A D O U R A D O S I R I G A D O CONSULTE-NOS PARA PORÇÕES DE 450g AS ESPÉCIES PODEM VARIAR CONFORME SAZONALIDADE E PERÍODOS LEGAIS DE PESCA",
+    "preco": "118 | 146 | 188"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SALMÃO TERIYAKI",
+    "descricao": "Salmão ao forno ao molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio com bacon. DOURADO COM RISOTO DE CAMARÃO peixescom camarãoPARA DUAS PESSOAS/300g + 190g PEIXE AO MOLHO Peixe grelhado, cobeo com molho cremoso de camarão, tomate e coentro. Acompanha arroz com brócolis e purê de batata. PEIXE COM RISOTO Peixe grelhado, regado com azeite, tomate cereja e alho laminado. Servido com risoto de camarão, tomate fresco e abobrinha. PEIXE COM CAMARÃO",
+    "preco": "146"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "BRISA DO MAR",
+    "descricao": "Peixe e camarão grelhados, regados com molho de azeite, vinho branco, limão e castanhas do Pará laminadas. Servido com mousseline de jerimum sem lactose e arroz com brócolis (ou brócolis salteado).",
+    "preco": "146 | 168 | 210"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MOQUECA DE PEIXE E CAMARÃO",
+    "descricao": "Peixe e camarão refogados com tomate, cebola, pimentão, leite de coco, coentro e leve toque de azeite de dendê. Acompanha arroz branco, pirão de peixe e farofa.",
+    "preco": "168"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SALMÃO COM CAMARÃO TERIYAKI",
+    "descricao": "Salmão ao forno, cobeo com camarão ao molho teriyaki, abacaxi grelhado, castanha de caju, cebolinha e gergelim. Acompanha arroz com castanhas e legumes salteados com batata formaggio com bacon. T I L Á P I A D O U R A D O S I R I G A D O AS ESPÉCIES PODEM VARIAR CONFORME SAZONALIDADE E PERÍODOS LEGAIS DE PESCA carnes PARA DUAS PESSOAS/300g",
+    "preco": "192"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ À PARMEGIANA",
+    "descricao": "",
+    "preco": "144"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ AO CATUPIRY",
+    "descricao": "",
+    "preco": "152"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ POTIGUAR",
+    "descricao": "",
+    "preco": "142"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ MERLOT",
+    "descricao": "Medalhões de lé mignon grelhados com bacon ao molho de vinho tinto. Acompanha risoto ao funghi com bacon, alho-poró e crocante de parmesão.",
+    "preco": "172"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ DO BOSQUE",
+    "descricao": "Medalhões de lé mignon grelhados com bacon, ao molho escuro agridoce com frutas vermelhas. Acompanha feuccine aos quatro queijos com crocante de bacon. Medalhões de lé mignon grelhados com bacon, sobre molho rôti, cobeos com aligot de macaxeira e farofa de bacon. Acompanha arroz de carne de sol e banana empanada. Medalhões de lé mignon grelhados com bacon, com creme de catupiry e ervas, sobre molho rôti com champignon. Acompanha arroz à grega (ervilha, cenoura, presunto e uva passa) e purê de batata. Escalopes de lé mignon à milanesa, servidos sobre feuccine ao molho de tomate e gratinados com queijos mozarela e parmesão. FILÉ TRUFADO COM RISOTO Medalhões de lé mignon grelhados com bacon e ambados sobre molho rôti com crispy de alho-poró. Acompanha risoto de provolone com azeite trufado, crispy de alho-poró e geleia de damasco.",
+    "preco": "160"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CARNE DE SOL SERTANEJA",
+    "descricao": "Carne de sol assada, desada e refogada com manteiga do seão, cebola roxa, coentro e nata fresca. Servida sobre arroz cremoso da terra e gratinada com queijo de coalho. Acompanha macaxeira frita.",
+    "preco": "102"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FRANGO MEDITERRÂNEO",
+    "descricao": "Filé de frango empanado, servido sobre feuccine ao molho pesto cremoso. Gratinado com molho de tomate e queijos mozarela e parmesão. CONSULTE-NOS PARA PORÇÕES DE 400g",
+    "preco": "105"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ AOS QUATRO QUEIJOS",
+    "descricao": "Medalhões de lé mignon grelhados com bacon ao molho cremoso de queijos. Acompanha arroz à grega e batata rústica com parmesão. Novidade em nosso cardápio Algumas opções sob medida para seu paladar",
+    "preco": "146"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO DOM ALFREDO",
+    "descricao": "Camarão grelhado, servido sobre feuccine ao molho cremoso com queijo parmesão, vinho branco, bacon e julienne de legumes. Cobeo com farofa de pão, bacon e ervas.",
+    "preco": "87"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RISONI DE CAMARÃO E COGUMELOS",
+    "descricao": "Camarão salteado com cebola roxa, alho-poró, mix de cogumelos e raspas de limão siciliano. Servido sobre risoni (massa grano duro com formato de arroz) ao molho de camarão e parmesão.",
+    "preco": "88"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "NHOQUE DE BANANA DA TERRA COM CAMARÃO",
+    "descricao": "Nhoque de banana da terra com camarões grelhados, salteados com molho de nata, cebola roxa e cebolinha, cobeos com crispy de carne de sol. Acompanha palitinhos de queijo coalho crocantes.",
+    "preco": "89"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO TERRA BRASILIS",
+    "descricao": "Camarão salteado com manteiga de ervas, cebola caramelizada, pimenta biquinho e queijo de coalho, servido sobre risoto de banana da terra. Finalizado com castanha do Pará assada, cebolinha e redução de mel de engenho.",
+    "preco": "88"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PEIXE COM AMÊNDOAS E RISOTO SICILIANO",
+    "descricao": "Tilápia grelhada, regada com molho de manteiga com amêndoas. Servida com risoto de limão siciliano com abobrinha e gergelim.",
+    "preco": "69"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PEIXE COM CAMARÃO BRISA DO MAR",
+    "descricao": "Tilápia e camarão grelhados, regados com molho de azeite, vinho branco, limão e castanhas do Pará laminadas. Servido com mousseline de jerimum sem lactose e arroz com brócolis (ou brócolis salteado).",
+    "preco": "95"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ À PARMEGIANA",
+    "descricao": "Escalopes de lé mignon à milanesa, servidos sobre feuccine ao molho de tomate e gratinados com queijos mozarela e parmesão.",
+    "preco": "93"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "POLVO GRELHADO COM BATATA RÚSTICA",
+    "descricao": "Tentáculos de polvo grelhados com azeite de ervas e servidos com arroz com brócolis e batata rústica com parmesão. Acompanha maionese caseira. No momento, somente estes pratos estão disponíveis em versão individual. Apenas mudanças simples, como retirada de ingredientes, são admitidas.",
+    "preco": "106"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO DO CHEF",
+    "descricao": "Camarão à milanesa, servido sobre arroz cremoso de manjericão e cobeo com molho de tomate, azeitona preta e orégano. Gratinado com queijo mozarela. Acompanha batata palha.",
+    "preco": "92"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RISOTO DE POLVO E CAMARÃO",
+    "descricao": "Arroz arbóreo com polvo em seu próprio caldo, servido com camarão grelhado e molho aioli com leve toque de páprica defumada.",
+    "preco": "125"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FILÉ TRUFADO COM RISOTO DE PROVOLONE",
+    "descricao": "Medalhões de lé mignon grelhados com bacon e ambados sobre molho rôti com crispy de alho-poró. Acompanha risoto de provolone com azeite trufado, crispy de alho-poró e geleia de damasco.",
+    "preco": "108"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAMARÃO INTERNACIONAL",
+    "descricao": "Camarão salteado com molho branco, servido sobre arroz cremoso com ervilha e presunto. Gratinado com queijos mozarela e parmesão. Acompanha batata palha.",
+    "preco": "83"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FRANGO MEDITERRÂNEO",
+    "descricao": "Filé de frango empanado, servido sobre feuccine ao molho pesto cremoso. Gratinado com molho de tomate e queijos mozarela e parmesão. MACARON PETIT COM SORVETE DE AVELÃ sobremesas",
+    "preco": "67"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SUPREME DE PISTACHE",
+    "descricao": "Massa de brownie, creme de ninho, pasta de castanha trufada e ganache de chocolate branco e pistache. Finalizada com calda de cacau.",
+    "preco": "34"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PETIT GATEAU DE CHOCOLATE",
+    "descricao": "",
+    "preco": "33"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PETIT GATEAU DE DOCE DE LEITE",
+    "descricao": "",
+    "preco": "31"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PETIT GATEAU DE PISTACHE",
+    "descricao": "Com sorvete aesanal de baunilha. Com sorvete aesanal de creme crocante e calda de laranja. Com sorvete aesanal de baunilha.",
+    "preco": "37"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "TAÇA ROMEU E JULIETA",
+    "descricao": "Sorvete aesanal de nata goiaba cobeo com mousse de queijo, calda de goiaba, queijo de coalho ralado e biscoito de castanha.",
+    "preco": "20 | 33"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "TAÇA TIRAMISU",
+    "descricao": "Sorvete aesanal de cappuccino cobeo com mousse de queijo, biscoito champagne caseiro, calda de café e crocante de cacau.",
+    "preco": "19 | 30"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "NAKED DE NINHO",
+    "descricao": "Toa de chocolate em camadas alternadas com mousse de ninho, pralinè de castanhas, calda de chocolate e sorvete aesanal de baunilha. MACARON PETIT COM",
+    "preco": "33"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SORVETE DE AVELÃ",
+    "descricao": "Biscoito de merengue de castanha, cobeo com sorvete aesanal de avelã, calda de chocolate e amêndoas laminadas.",
+    "preco": "23 | 35"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MIL FOLHAS DE DOCE DE LEITE",
+    "descricao": "Massa folhada crocante alternada com doce de leite e servida com sorvete aesanal de baunilha. COCADA MARIA BONITA",
+    "preco": "29"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CREME DE PAPAYA",
+    "descricao": "Com licor de cassis e crocante de cereais.",
+    "preco": "29"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SORVETE ARTESANAL",
+    "descricao": "Avelã, nata goiaba, chocolate, baunilha, creme crocante, tapioca.",
+    "preco": "18"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "BROWNIE VEGANO",
+    "descricao": "Brownie de cacau com massa de jerimum. Acompanha cocadinha cremosa.",
+    "preco": "26"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MOUSSE DIET",
+    "descricao": "Mousse de chocolate, creme de queijo e calda de chocolate cobeos com castanhas. SORVETE DE DOCE DE LEITE",
+    "preco": "23"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MARMORIZADO",
+    "descricao": "Acompanha calda de chocolate e amêndoas.",
+    "preco": "21"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "COCADA MARIA BONITA",
+    "descricao": "Cocada cremosa ao forno, servida com sorvete aesanal de tapioca sobre castanha de caju. Acompanha calda de maracujá.",
+    "preco": "33"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SORVETE ARTESANAL/sem açúcar e sem lactose",
+    "descricao": "Sorvete aesanal de morango adoçado com stevia.",
+    "preco": "20"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SÓ UM DOCINHO",
+    "descricao": "Para quem quer adoçar o paladar e acompanhar o cafezinho, 2 ou 4 unidades de tubinhos crocantes feitos com massa do nosso pastel. Os recheios são de pistache ou doce de leite salgado com crocante de amendoim.",
+    "preco": "16 | 30"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CARTOLA CAMARÕES",
+    "descricao": "Banana assada, ganache de chocolate branco e castanha de caju empanados. Servidos sobre creme de queijo manteiga, com sorvete de baunilha e toque de canela.",
+    "preco": "30"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "STELLA ARTOIS 330ml",
+    "descricao": "",
+    "preco": "16,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "HEINEKEN 330ml",
+    "descricao": "SEM GLÚTEN DOGMA HAZY IPA LATA 355ml Turva, frutada e macia, Essa Hazy IPA tem aromas de frutas tropicais e cítricas, leve amargor e corpo médio. Apresenta uma complexidade única por ter uma fermentação com levedura exclusiva. Sua harmonização é ampla. Possui 6,2% de ABV. DOGMA AMERICAN IPA LATA 355ml Clássica IPA, levemente alaranjada, com corpo médio e amargor marcante. Por não ser pasteurizada, preserva um aroma explosivo, cítrico, derivados dos lúpulos nobres americanos usados em sua receita. Possui 6,5% de ABV. Harmoniza com pratos mais intensos. LATA 355ml cerveja camarõesPilsen clássica, que utiliza técnicas tradicionais e fermentação prolongada, o que garante a complexidade e a elegância comum ao estilo. Refrescante, nossa pilsen harmoniza com o nosso cardápio e com a alegria do nosso povo. Possui 4,5% de ABV. nossos drinks A disponibilidade das frutas pode variar com a sazonalidade doses BLACK & WHITE JOHNNIE WALKER RED LABEL OLD PARR JACK DANIEL'S JOHNNIE WALKER BLACK LABEL JOHNNIE WALKER GOLD LABEL VODKA NACIONAL VODKA IMPORTADA GIN IMPORTADO RUM BACARDI SUPERIOR TEQUILA CACHAÇA EXTREMA CACHAÇA SAMANAÚ PRATA CACHAÇA SAMANAÚ OURO CACHAÇA SELETA SAQUÊ CAMPARI",
+    "preco": "18,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MARTINI",
+    "descricao": "",
+    "preco": "10,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FRUTAS AMARELAS",
+    "descricao": "Vodka, cajá, maracujá, caju, suco de limão e hoelã",
+    "preco": "26,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "TROPICAL",
+    "descricao": "Vodka, morango, maracujá, kiwi",
+    "preco": "29,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "RUBI",
+    "descricao": "Vodka, morango, xarope de hibisco, suco de limão, manjericão",
+    "preco": "29,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "BERGAMOTA",
+    "descricao": "Vodka, tangerina, lichia em calda",
+    "preco": "29,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAJU SANTO",
+    "descricao": "Vodka, caju, suco de limão, xarope de capim santo",
+    "preco": "28,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAIPIRINHA CAMARÕES",
+    "descricao": "Cachaça Prata, mix de limões, açúcar mascavo, rapadura",
+    "preco": "24,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAIPIRINHA (cachaça e limão)",
+    "descricao": "",
+    "preco": "17,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAIPIROSCA (vodka nacional e limão)",
+    "descricao": "",
+    "preco": "19,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAIPIFRUTA (vodka nacional)",
+    "descricao": "Cajá | Caju | Kiwi | Limão | Maracujá | Morango | Seriguela/sazonal",
+    "preco": "26,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAIPIFRUTA COM SAQUÊ",
+    "descricao": "36,00G&T CAMARÕES Gin, tônica, casca de laranja Bahia, infusão de laranja com canela",
+    "preco": "31,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "GIN TÔNICA",
+    "descricao": "Gin, tônica, limão",
+    "preco": "34,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "GIN TORANJA",
+    "descricao": "Gin, Monin de toranja, morango, espuma de cajá",
+    "preco": "39,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "NEGRONI",
+    "descricao": "Campari, vermouth tinto, gin",
+    "preco": "30,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MOJITO",
+    "descricao": "Rum, suco de limão, água com gás, xarope de açúcar, hoelã Lillet Blanc, limoncello, tônica, limão siciliano, hoelã",
+    "preco": "24,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "COQUETEL TROPICAL/SEM ÁLCOOL",
+    "descricao": "Vodka, calda de morango, suco tropical (cajá, maracujá e caju), leite condensado, creme de leite",
+    "preco": "17,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "VIOLETA/SEM ÁLCOOL",
+    "descricao": "Suco de limão, tônica, hoelã, limão, infusão de laranja com canela (contém hibisco)",
+    "preco": "18,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CACTUS",
+    "descricao": "Whiskey bourbon, suco cítrico, xarope de açúcar, tangerina tostada",
+    "preco": "29,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "PÔR DO SOL",
+    "descricao": "Cachaça, suco cítrico, manjericão, xarope de açúcar. Finalizado na mesa com concentrado de hibisco",
+    "preco": "26,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "MOSCOW MULE TROPICAL",
+    "descricao": "Vodka, suco de limão, xarope de gengibre, espuma de cajá",
+    "preco": "26,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "HAVANNA CITRUS",
+    "descricao": "Rum, suco cítrico, Monin de amêndoas, Angostura bier, xarope de açúcar, hoelã",
+    "preco": "31,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "LILLET LEMON",
+    "descricao": "",
+    "preco": "37,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "COQUETEL TROPICAL/COM ÁLCOOL",
+    "descricao": "",
+    "preco": "21,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "APEROL SPRITZ",
+    "descricao": "Aperol, espumante brut, água com gás nossas caipis",
+    "preco": "36,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAIPIFRUTA (vodka impoada)",
+    "descricao": "licores",
+    "preco": "30,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "BAILEYS",
+    "descricao": "",
+    "preco": "34,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "AMARULA",
+    "descricao": "",
+    "preco": "30,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "FRANGELICO",
+    "descricao": "",
+    "preco": "38,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CUARENTA Y TRES",
+    "descricao": "",
+    "preco": "36,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "COINTREAU",
+    "descricao": "",
+    "preco": "35,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "REFRIGERANTE",
+    "descricao": "",
+    "preco": "8,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SODA SABORIZADA",
+    "descricao": "",
+    "preco": "10,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "ÁGUA MINERAL/SEM GÁS",
+    "descricao": "",
+    "preco": "7,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "ÁGUA GASEIFICADA COM LIMÃO",
+    "descricao": "",
+    "preco": "10,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "ÁGUA TÔNICA",
+    "descricao": "",
+    "preco": "9,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "ÁGUA DE COCO",
+    "descricao": "",
+    "preco": "11,00 | 24,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "SUCO DE FRUTAS",
+    "descricao": "Abacaxi | Acerola | Cajá | Caju | Graviola | Laranja Limão | Maracujá | Morango | Uva | Laranja com Morango | Limonada Suíça",
+    "preco": "12,90 | 28,00"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "ENERGÉTICO RED BULL",
+    "descricao": "diversos",
+    "preco": "19,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "50ml ÁGUA MINERAL/COM GÁS",
+    "descricao": "Copo Jarra",
+    "preco": "7,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAFÉ ESPRESSO",
+    "descricao": "ESPRESSO VIBRANTE Café encorpado e marcante, com notas de chocolate e caramelo.",
+    "preco": "7,90"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "Intensidade",
+    "descricao": "ESPRESSO RITUAIS CERRADO MINEIRO Café Especial equilibrado, com notas adocicadas e cítricas.",
+    "preco": "7"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "Intensidade",
+    "descricao": "ESPRESSO DECAF Com teor máximo de 0,1% de cafeína, este é um café delicado, com sabor levemente adocicado e baixa acidez.",
+    "preco": "6"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "Intensidade",
+    "descricao": "",
+    "preco": "3"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAPPUCCINO",
+    "descricao": "",
+    "preco": "8,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CAPPUCCINO VEGANO",
+    "descricao": "bebidas quentesDo cultivo à xícara, os detalhes em cada etapa garantem sabores e aromas peeitos para sua experiência com os espressos TRES.",
+    "preco": "9,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "CHÁS",
+    "descricao": "Feito com leite vegetal à base de castanha de caju. Orgânico, zero leite, zero colesterol, zero glúten e baixo em açúcares. Caju com Hoelã | Manga com Gengibre Frutas Vermelhas Natal/RN Camarões Restaurante Ponta Negra",
+    "preco": "7,50"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "Av. Engenheiro Robeo Freire,",
+    "descricao": "Camarões Potiguar Ponta Negra",
+    "preco": "3980"
+  },
+  {
+    "restaurante": "Camaroes",
+    "prato": "Rua Pedro Fonseca Filho,",
+    "descricao": "Camarões Midway Mall Terceiro Piso - Midway Mall Av. Nevaldo Rocha, 3775 - Tirol Camarões Natal Shopping Praça de Alimentação - Natal Shopping Av. Senador Salgado Filho, 2234 - Candelária @camaroesnatal camaroes.com.br DELIVERY",
+    "preco": "8887"
+  }
+]

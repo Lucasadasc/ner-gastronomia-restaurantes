@@ -1,0 +1,557 @@
+[
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Polvo ao Azeite de Tomates Secos",
+    "descricao": "Polvo em cubos refogados no azeite com cebola alho, pasta de tomate seco, parmesão e castanha de caju. Acompanha 6 pãezinhos."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão no alho e óleo",
+    "descricao": "Camarão no alho e Óleo"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Isca de Peixe",
+    "descricao": "Iscas de peixe à milanesa com gergelim e molho tártaro."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Batata Frita Especial",
+    "descricao": "Batatas fritas cobertas com queijo muçarela derretido e bacon crocante."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Crocante",
+    "descricao": "Camarões empanados com coco. Acompanha mango chutney."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão na Manteiga Acebolado",
+    "descricao": "Filé de camarão salteado na manteigada terra e cebola. Acompanha macaxeira ao leite."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Casquinho de Caranguejo",
+    "descricao": "Carne de caranguejo refogada com cheiro-verde, tomate e leite de coco natural. Acompanha farofa da Bahia e molho de coco."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Maminha Angus",
+    "descricao": "Corte de maminha angus com farofa, chimichurri e vinagrete."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Entrada de Filé ao Molho Madeira",
+    "descricao": "Cubos de filé mignon com molho madeira e champignon. Acompanha cesta de torradas temperadas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Entrada de Filé aos Quatro Queijos",
+    "descricao": "Cubos de filé mignon com molho de queijos. Acompanha cesta de torradas temperadas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão à Milanesa",
+    "descricao": "Camarão à milanesa com gergelim. Acompanha molho tártaro."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Entradinha Espetinho de Queijo Coalho",
+    "descricao": "Acompanha melaço de cana."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Empada de Queijo do Reino",
+    "descricao": "Empada de Camarão ( 1 unidade)"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão ao Forno",
+    "descricao": "Camarões inteiros (com cabeça) levados ligeiramente ao forno, regados com suavemolho provençal. Acompanha risoto de limão siciliano."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão em Crosta",
+    "descricao": "Camarões em crosta de pão de alho. Acompanha salada de alface americana, tomate,azeitona verde, palmito, pimentão e cebola. Acompanha e risoto de limão siciliano."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Ipanema",
+    "descricao": "Camarões salteados no azeite com alho, cebola, pimentão, coentro e tomate. Servidos sobre arroz regado com um toque de leite de coco e batata palha."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Mucuripe",
+    "descricao": "Camarões com espaguete italiano coberto com delicioso molho de tomate frescoacrescido de tomate seco, nata, azeitona preta e rúcula."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carbonara Coco Bambu",
+    "descricao": "Carbonara de camarão com fettuccine e molho feito com gema de ovo, queijo parmesão, creme de leite fresco, pimenta do reino, bacon e finalizado com farofa crocante de panko."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Alfredo",
+    "descricao": "Camarão grelhado sobre fettuccine com molho alfredo e bacon"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Coco Brasil",
+    "descricao": "Camarões empanados e recheados com Catupiry®, sobre um cremoso arroz de moqueca com camarões e coentro, coberto com batata palha. Acompanha farofa de panko com bacon e alhoporó."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Grelhado Fernando de Noronha",
+    "descricao": "Camarões salteados no azeite e alho, com legumes, palmito, batata recheada, tomates cereja e muçarela de búfala envolvidos em leve molho escalivada e azeite de ervas. Acompanha arroz de brócolis."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Mônaco",
+    "descricao": "Camarões empanados acompanhados de risoto de aspargos e parmesão coberto com lâminas de amêndoas assadas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Praia de Búzios",
+    "descricao": "Arroz de leite com queijo coalho coberto com camarões refogados com coentro, cebola, alho, tomate fresco e nata. Gratinado com queijo coalho e coberto com batata palha."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Iracema",
+    "descricao": "Arroz de leite com queijo coalho, coberto com 380g de camarões refogados comcoentro, cebola, alho, tomate fresco e nata. Gratinado com queijocoalho e acompanha macaxeira frita."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Capri",
+    "descricao": "Camarões grelhados envolvidos em fettuccine, berinjela, abobrinha, tomate seco, creme de leite fresco e molho pesto de manjericão."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Ibiza",
+    "descricao": "Camarões empanados com gergelim, acompanhados de arroz com leite de coco, molho de tomates frescos, nata, mix de pimentões, cebola, coentro e cebolinha."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Aruba",
+    "descricao": "Camarões salteados na cebola e alho, com molho leve de abóbora, leite de coco, tomate em cubos, lascas de coco, coentro e cebolinha. Acompanha baião de dois com carne seca, bacon, cebola roxa, queijo coalho, pimenta biquinho e nata fresca."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Praia de Itamaracá",
+    "descricao": "Arroz à grega (ervilhas, pimentões, passas, cenoura e presunto) coberto com camarõesà milanesa, molho caseiro de tomate fresco. Gratinado com queijo muçarela.Acompanha batata palha."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Praia de Tamandaré",
+    "descricao": "Espaguete italiano coberto com delicioso molho de tomate fresco acrescido detomate seco, azeitona, rúcula e camarões."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela à Belle Meunière",
+    "descricao": "Peixe da estação grelhado com molho meunière, camarões, alcaparras, champignon e salsinha. Acompanha legumes grelhados e arroz de brócolis."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela Meunière",
+    "descricao": "Filé de pescada amarela grelhado com molho a base de laranja, limão, manteiga e um toque de alecrim fresco. Acompanha legumes grelhados e arroz de brócolis."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela Crocante",
+    "descricao": "Filé de peixe empanado ao coco levemente adocicado e farinha de pães frescos, crocante por fora e macio por dentro. Acompanha arroz de castanha e maionese de batata com picles de pepino."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salmão à Matias Beck",
+    "descricao": "Filé de salmão grelhado com manteiga, nozes, champignon e salsinha. Acompanha arrozde brócolis e cuscuz marroquino, com brócolis, cenoura, couve-flor, alho, cebola, pimentão."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau à Gomes de Sá",
+    "descricao": "Lombo de bacalhau em lascas assado com cebola, mix de pimentões, batatas, ovos, cebolinha, e azeitonas azapa. Acompanha arroz de brócolis e farofa de ovos."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau com Natas",
+    "descricao": "Lombo de Bacalhau em lascas sobre fatias de batata inglesa com molho da casa à base de nata. Gratinado com queijo parmesão e muçarela. Acompanha arroz com brócolis e farofa de ovos."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau em Crosta",
+    "descricao": "Lombo de bacalhau sobre batatas, coberto com pesto de azeitonas pretas e crosta de pão.Envolvidos com azeite virgem, tomates cerejas e cebola. Acompanha arroz de brócolis."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau à Lagareiro",
+    "descricao": "Lombo de bacalhau assado no forno com azeite, alho confitado, cebola, ovos, tomate, azeitona azapa, batata, abóbora e brócolis. Acompanha arroz com brócolis."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tilápia à Meunière",
+    "descricao": "Filé de tilápia grelhado com molho meunière, alcaparras, champignon e ervilhas. Acompanha arroz com brócolis e legumes."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tilápia Pescador",
+    "descricao": "Filé de Tilápia grelhado com molho a base de azeite, cebolas, alcaparras e salsinha. Acompanha arroz de alho e batata soutê"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Moqueca Cearense de Camarão",
+    "descricao": "De origem indígena com toques cearenses. Nossa moqueca é feita com tomate, cebola e pimentõesrefogados, pimenta de cheiro, acrescidas de leite de coco, azeite de dendê e coentro."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Moqueca Cearense de Peixe",
+    "descricao": "De origem indígena com toques cearenses. Nossa moqueca é feita com tomate, cebola e pimentõesrefogados, pimenta de cheiro, acrescidas de leite de coco, azeite de dendê e coentro."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Moqueca Cearense Mista",
+    "descricao": "De origem indígena com toques cearenses. Nossa moqueca é feita com tomate, cebola e pimentões refogados, pimenta de cheiro, acrescidas de leite de coco, azeite de dendê e coentro."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Paella Caldosa Coco Bambu",
+    "descricao": "Arroz caldoso com camarão, lula, polvo, peixe e mexilhão, refogado com pimentões, ervilha, especiarias e um leve toque de açafrão. Servidos na paellera. Rico em sabor e apresentação."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Rede de Pescador com Polvo",
+    "descricao": "Indescritível prazer do mar nordestino. Polvo, camarão, mexilhões, peixe e lula grelhados com molho provençal. Acompanha arroz de açafrão com parmesão."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Polvo à Provençal",
+    "descricao": "Polvo refogado ao molho provençal com tomate seco. Acompanha arroz de brócolis e batata ao forno."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Arroz de pescador",
+    "descricao": "Delicioso arroz feito com consumê de peixe, camarão, lula, polvo e pescada amarela."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé à Paulista",
+    "descricao": "\\"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé com Ervas",
+    "descricao": "Medalhões de filé mignon grelhados, cobertos com nata de ervas.Acompanha arroz à piemontese gratinado e batatas recheadas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé aos Quatro Queijos",
+    "descricao": "Medalhões de filé grelhados e flambados com conhaque e molho cremoso quatroqueijos. Acompanha arroz à grega e batata recheada."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé Alfredo",
+    "descricao": "Medalhões de Filé Mignon envolvidos com bacon com molho funghi acompanhado de fettuccine com molho Alfredo preparado com creme de leite fresco."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé Paris",
+    "descricao": "Filé mignon coberto com manteiga preparada na casa com mostarda e ervas. Acompanha batatas fritas e arroz à piemontese gratinado."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Picanha Coco Bambu",
+    "descricao": "O corte preferido dos nossos churrascos, acompanhada de vinagrete, chimichurri, farofa amarela, mandioca cozida e arroz biro biro."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol do Sertão",
+    "descricao": "Arroz de leite com queijo coalho, coberto com carne de sol desfiada e refogada namanteiga da terra com cebola roxa, nata e coentro. Gratinada com queijo coalho.Acompanha macaxeira frita."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol Alfredo",
+    "descricao": "Carne de Sol desfiada grelhada sobre fettuccine com molho alfredo e bacon."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol do Maranhão",
+    "descricao": "Deliciosa peça inteira de carne de sol de filé mignon. Acompanha baião de dois, farofa de ovos,banana à milanesa, cebola roxa refogada, purê de macaxeira gratinado com queijo coalho e vinagrete."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol Coco Bambu",
+    "descricao": "Carne de sol de filé mignon sobre uma cama de macaxeira cozida com manteiga da terra coberta com queijo coalho grelhado com melaço de cana. Acompanha melaço de cana, porção de baião de dois, vinagrete e farofa."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Frango Primavera",
+    "descricao": "Filé de frango grelhado com estragão. Acompanha legumes grelhados ao vapor e arroz de alho."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé de Frango à Parmegiana",
+    "descricao": "Filé de Frango à milanesa envoltos em molho caseiro de tomate fresco e gratinado com queijos muçarela e parmesão. Servido com espaguete no próprio molho."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chicken Alfredo",
+    "descricao": "Filé de peito de frango grelhado sobre fettuccine com molho alfredo e Bacon."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Frango",
+    "descricao": "Filé de frango grelhado, arroz e batatas fritas*.*TROQUE A BATATA FRITA POR PURE DE BATATAS OU LEGUMES."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Parmegiana",
+    "descricao": "Filé Mignon à milanesa com espaguete e molho de tomate."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Peixe",
+    "descricao": "Filé de tilápia grelhado, molho pesto, arroz e purê de batata."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid's Coco Bambu",
+    "descricao": "Filé grelhado e cortado em cubos, arroz, batatas fritas, feijão do dia e farofa da casa."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Frango Parmegiana",
+    "descricao": "Frango à milanesa com espaguete e molho de tomates frescos."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada de Salmão",
+    "descricao": "Ceviche de Salmão, alface americana, alface crespa, alface roxa, rúcula, azeitonas pretas e tomate cereja. Servida na casquinha de pizza."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Tropical",
+    "descricao": "95g camarões grelhados, folhas verdes, manga, tomate cereja, cenoura e castanha de caju. Temperada com molho especial. Servida na casquinha de pizza."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Caesar",
+    "descricao": "Alface americana,  parmesão ralado, molho caesar e croûtons. Servida na casquinha de pizza."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Costa Azul",
+    "descricao": "Mix de folhas verdes com lâminas de camarão marinado no pesto de alcaparra e parmesão cobertos com camarões salteados. Servida na casquinha de pizza."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Coco Bambu",
+    "descricao": "Mix de folhas verdes, palmito, tomates cereja, camarões e cogumelos shiitake com molho vinagrete especial. Servida na casquinha de pizza."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Gelato De Cookies And Cream",
+    "descricao": "Delicioso e cremoso Gelato italiano de Doce de Leite. Acompanha doce de leite Argentino. Fabricação própria Coco Bambu."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Mix de Gelato 4 Sabores",
+    "descricao": "Mix de quatro sabores de gelato artesanal servido em uma tábua personalizada. Sabores disponíveis: Queijo com goiabada, Cookies and cream, doce de leite, creme e brigadeiro e Pistache"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pudim Inteiro Grande",
+    "descricao": "Torta de Limão"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Abacaxi c/ Hortelã",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cupuaçu",
+    "descricao": "Morango, Cereja e Blueberry - P/ acrescentar: Laranja +R$ 2, Leite +R$ 2 ou Leite condensado +R$ 6."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Goiaba",
+    "descricao": "**Fruta da Estação**"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Seriguela",
+    "descricao": "**Fruta da Estação**"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Café Nespresso Descafeinado",
+    "descricao": "Leggero é um blend suave e refrescante de cafés sul-americanos. Arábicas levemente torrads do Brasil e da Colômbia e um Robusta conferem-lhe um corpo leve e aveludado, notas de cereais torrados e cacau com aquele toque de acidez e amargor. Receitas com leite revelam uma doçura de caramelo maltado no Leggero, mas os aromas complexos deste café Espresso ainda brilham."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Café Nespresso Ristretto",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pink Lemonade",
+    "descricao": "Sabores: Abacaxi, morango, maçã verde, tangerina, limão siciliano, maracujá.\\n\\n"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Schweppes Citrus",
+    "descricao": "Cappuccino com Borda de Nutella 100ml"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Acerola Martini",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Caipi Honolulu",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Black Label - 12 anos (Dose)",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cachaça Coco Bambu (Dose)",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cachaça Ypióca 160 Anos (Dose)",
+    "descricao": "Dose Aperitivo Campari"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chivas Regal - 12 anos (Dose)",
+    "descricao": "Dose Digestivo Conhaque Domecq Oro - Brasil"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Brut",
+    "descricao": "Elaborado pelo grupo casa valduga, é leve de muito frescor, perlagem fina intensa de ótima persistência, na boca revela aromas de frutas tropicais, ideal para harmonizar com frutos do mar, peixes e carnes brancas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Las Moras Black Label",
+    "descricao": "Torta folhada com cogumelos variados. Pequenas aves em cocções diversas (ao forno, grelha ou em úmido). Queijos delicados como Brie, Camembert ou de cabra com cinzas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Luiz Argenta Jovem Brut",
+    "descricao": "Cereja claro, com perlage fino e persistente, frutas vermelhas (cerejas, framboesas), mas também há destaque para as notas cítricas e um leve mineral, prima pelo frescor, com uma estrutura bem balanceada entre açúcar e acidez, final frutado e cremoso"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Luiz Argenta La Jovem Riesling",
+    "descricao": "Coloração amarela pálida com reflexos esverdeados. Aromas elegantes que lembram abacaxi maduro, damasco e pera. Sabor acentuado e persistente, acidez marcante porem equilibrada, leve toque sápido e retrogosto que lembra os aromas sentidos no olfato."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bueno Petit Verdot Reserva",
+    "descricao": "Sob influência de solo pedregoso e clima quente, a Pinot Noir evidencia toda sua essência e ancestralidade. De textura incrivelmente sedosa, enaltece a diversidade de expressões, permeando entre frutas, flores e mineralidade."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bueno Petit Verdot Reserva",
+    "descricao": "Com elegância, complexidade e personalidade, possui coloração rubi com tons violáceos e aromas com notas de amora, cacau, especiarias doces e baunilha. De acidez moderada, em boca é encorpado, com taninos macios e retrogosto longo com notas amadeiradas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Paralelo 31 Gran Reserva",
+    "descricao": "O PARALELO 31, PONTO DE ENCONTRO DO TERROIR PERFEITO DO NOVO MUNDO, É O QUE UNE AUSTRÁLIA, NOVA ZELÂNDIA, ÁFRICA DO SUL, CHILE, ARGENTINA E A CAMPANHA, DO RIO GRANDE DO SUL."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chilano Carménère",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Santa Carolina Reservado Carmenère",
+    "descricao": "Reflete a fiel expressão desta cepa, com uma cor intensa e profunda que, junto com os aromas de frutos maduros, harmonizam com os toques de baunilha entregue pela guarda em barris. Ideal para acompanhar massas, queijos maduros e carnes brancas, caracteriza-se na boca por seu equilíbrio."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vina Maipo Carmenere",
+    "descricao": "Cor vermelho intenso. Aromas ricos de flores, frutas vermelhas e escuras frescas. Podem-se definir aromas de coco, menta e pimenta negra. De boa acidez, textura sedutora e amplo paladar, um bom equilíbrio."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tabalí Pedregoso Gran Reserva Pinot Noir",
+    "descricao": "Rubi intenso com reflexos violáceos. Frutas vermelhas e pretas maduras, notas de especiarias e toques de chocolate.Médio corpo, com taninos balanceados e boa estrutura, seu final de boca é fresco, boa persistência e elegância."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Montes Alpha Pinot Noir",
+    "descricao": "O nariz complexo oferece um sublime aroma de frutas silvestres maduras como figo e framboesa complementado com notas de creme de cassis, enquanto temperos como pimenta caiena aparecem sobre um fundo de chocolate amargo, que envolve divinamente os aromas sutis de couro e tabaco.Palato com taninos perfeitamente arredondados que acionam a explosão da fruta no meio-palato."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Montes Alpha Carmenère",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Champagne Veuve Clicquot Brut",
+    "descricao": "De cor amarelo claro e brilhante com perlage fino e elegante. Aromas que lembram cereja e morango e especiarias. Bem estruturado.Na boca macio e persistente com um bom mousse."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Dom Pérignon Brut Champagne",
+    "descricao": "Características Visuais:\\nAmarelo Palha Esverdeado.\\n\\nCaracterísticas olfativas:\\nAromas de frutas cítricas com notas de pera e maça verde.\\n\\nCaracterísticas gustativas:\\nNa boca, é frutado e bem equilibrado entre o corpo e acidez."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "La Vieille Ferme Blanc",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "La Vieille Ferme Rouge",
+    "descricao": "ElaboraçãoFermentado em tanques de aço inox com temperaturas controladas."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Champagne Taittinger Brut Reserve",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Château Branaire-Ducru",
+    "descricao": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Villa Fabrizia Frascati",
+    "descricao": "Cor amarelo pálido. Aromas com notas típicas de Pinot Grigio, pêra e frutas cítricas. Paladar com toques de baunilha, damasco e mel."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Papale Primitivo di Manduria",
+    "descricao": "Coloração rubi intenso com toque violáceos, traz aroma fresco e frutado, com notas de mirtilos, cassis e framboesa, com notas de caramelo, baunilha e tabaco, provenientes do seu estágio em barrica."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Reguengos Reserva",
+    "descricao": "Vermelho rubi intenso. Exibe notas de frutos silvestres e compotas de mirtilo, envoltos em café, pimenta do reino e um leve aroma torrado do barril. Na boca é intenso e denso, mas com taninos robustos, conferindo-lhe estrutura e complexidade e sugerindo bom potencial de envelhecimento em garrafa."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Marques De Toledo Verdejo",
+    "descricao": "Visual: amarelo palha claro e brilhante. Olfativa: frutas cítricas (abacaxi) e notas de ervas frescas. Gustativa: seco, acidez fresca, corpo leve e final muito harmônico."
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Los Llanos Pata Negra Verdejo",
+    "descricao": "Aromas de frutas nagrs e baunilha, eqilibrado e macio"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Robert Mondavi Woodbridge",
+    "descricao": "Woodbridge White Zinfandel é Versátil, refrescante e levemente adocicado."
+  }
+]

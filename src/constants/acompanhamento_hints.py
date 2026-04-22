@@ -1,0 +1,15 @@
+ACOMPANHAMENTO_HINTS = {
+    "arroz",
+    "risoto",
+    "fettuccine",
+    "nhoque",
+    "batata",
+    "macaxeira",
+    "pure",
+    "farofa",
+    "legumes",
+    "torradas",
+    "espaguete",
+    "massa",
+    "salada",
+}

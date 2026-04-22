@@ -1,0 +1,1892 @@
+[
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "",
+    "preco": "R$ 85,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Polvo ao Azeite de Tomates Secos",
+    "descricao": "Polvo em cubos refogados no azeite com cebola alho, pasta de tomate seco, parmesão e castanha de caju. Acompanha 6 pãezinhos.",
+    "preco": "R$ 133,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão no alho e óleo",
+    "descricao": "Camarão no alho e Óleo",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Anéis de lula crocantes. Acompanha molho tártaro.",
+    "preco": "R$ 59,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Isca de Peixe",
+    "descricao": "Iscas de peixe à milanesa com gergelim e molho tártaro.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Batata Frita Especial",
+    "descricao": "Batatas fritas cobertas com queijo muçarela derretido e bacon crocante.",
+    "preco": "R$ 51,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Lactose",
+    "descricao": "Camarões refogados no azeite com cebola alho, pasta de tomate seco, parmesão e castanha de caju. Acompanha 4 pãezinhos.",
+    "preco": "R$ 114,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Recife",
+    "descricao": "Camarões inteiros (com casca e cabeça) marinados na cerveja, levemente empanados, fritos e refogados com cebola e alho.",
+    "preco": "R$ 81,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Crocante",
+    "descricao": "Camarões empanados com coco. Acompanha mango chutney.",
+    "preco": "R$ 95,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão na Manteiga Acebolado",
+    "descricao": "Filé de camarão salteado na manteigada terra e cebola. Acompanha macaxeira ao leite.",
+    "preco": "R$ 122,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Massa fresca recheada com carne de sol, cebola roxa, coentro e queijo coalho. (4 Unidades)",
+    "preco": "R$ 44,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Massa fresca recheada com queijo coalho e muçarela. (4 Unidades)",
+    "preco": "R$ 34,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Camarões refogados com cebola, salsinha, nata e Catupiry®, coberto com purê demacaxeira e gratinado com queijo parmesão.",
+    "preco": "R$ 64,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Carpaccio de carne temperado com molho de alcaparras, mostarda, parmesão e rúcula. Servido com pão rústico.",
+    "preco": "R$ 97,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Casquinho de Caranguejo",
+    "descricao": "Carne de caranguejo refogada com cheiro-verde, tomate e leite de coco natural. Acompanha farofa da Bahia e molho de coco.",
+    "preco": "R$ 68,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Espetinho de Camarão em Crosta.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Maminha Angus",
+    "descricao": "Corte de maminha angus com farofa, chimichurri e vinagrete.",
+    "preco": "R$ 90,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Caldo com camarões, alho, cebola, coentro, pimentões, pimenta de cheiro mandioquinha eleite de coco.",
+    "preco": "R$ 84,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Cubos de filé, refogado com cebola roxa e molho barbecue. Acompanha batata frita.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Entrada de Filé ao Molho Madeira",
+    "descricao": "Cubos de filé mignon com molho madeira e champignon. Acompanha cesta de torradas temperadas.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Entrada de Filé aos Quatro Queijos",
+    "descricao": "Cubos de filé mignon com molho de queijos. Acompanha cesta de torradas temperadas.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão à Milanesa",
+    "descricao": "Camarão à milanesa com gergelim. Acompanha molho tártaro.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Entradinha Espetinho de Queijo Coalho",
+    "descricao": "Acompanha melaço de cana.",
+    "preco": "R$ 49,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Empada de Queijo do Reino",
+    "descricao": "Empada de Camarão ( 1 unidade)",
+    "preco": "R$ 26,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Caldo à base de peixe, pimentões, pimenta de cheiro, cebola, alho, leite de coco e coentro.",
+    "preco": "R$ 21,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão ao Forno",
+    "descricao": "Camarões inteiros (com cabeça) levados ligeiramente ao forno, regados com suavemolho provençal. Acompanha risoto de limão siciliano.",
+    "preco": "R$ 141,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão em Crosta",
+    "descricao": "Camarões em crosta de pão de alho. Acompanha salada de alface americana, tomate,azeitona verde, palmito, pimentão e cebola. Acompanha e risoto de limão siciliano.",
+    "preco": "R$ 199,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Ipanema",
+    "descricao": "Camarões salteados no azeite com alho, cebola, pimentão, coentro e tomate. Servidos sobre arroz regado com um toque de leite de coco e batata palha.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Mucuripe",
+    "descricao": "Camarões com espaguete italiano coberto com delicioso molho de tomate frescoacrescido de tomate seco, nata, azeitona preta e rúcula.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Provençal",
+    "descricao": "camarões puxados no azeite extra virgem, alho e cebola, flambados comvinho branco, aromatizados com ervas de provence, com molho de tomate fresco.Servido sobre fettuccine italiano com molho a base de creme de leite e um toquede limão siciliano.",
+    "preco": "R$ 254,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carbonara Coco Bambu",
+    "descricao": "Carbonara de camarão com fettuccine e molho feito com gema de ovo, queijo parmesão, creme de leite fresco, pimenta do reino, bacon e finalizado com farofa crocante de panko.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Alfredo",
+    "descricao": "Camarão grelhado sobre fettuccine com molho alfredo e bacon",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Coco Bambu",
+    "descricao": "Camarões recheados com Catupiry® e empanados. Servidos sobre cremoso arroz com camarões, ervilhas e presunto, envolvido com molho branco. Gratinado com queijos muçarela e parmesão. Acompanha batata palha.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Coco Brasil",
+    "descricao": "Camarões empanados e recheados com Catupiry®, sobre um cremoso arroz de moqueca com camarões e coentro, coberto com batata palha. Acompanha farofa de panko com bacon e alhoporó.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Grelhado Fernando de Noronha",
+    "descricao": "Camarões salteados no azeite e alho, com legumes, palmito, batata recheada, tomates cereja e muçarela de búfala envolvidos em leve molho escalivada e azeite de ervas. Acompanha arroz de brócolis.",
+    "preco": "R$ 199,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Internacional",
+    "descricao": "Camarões servidos sobre cremoso arroz com ervilhas e presunto, envolvido com molho branco. Gratinado com queijos muçarela e parmesão. Acompanha batata palha.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Jurerê",
+    "descricao": "Camarões puxados no azeite extra virgem, alho e cebola, flambados com vinho branco, aromatizados com ervas de provence, com molho de tomate fresco. Servido sobre fettuccine italiano com molho a base de creme de leite e um toque de limão siciliano.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Mônaco",
+    "descricao": "Camarões empanados acompanhados de risoto de aspargos e parmesão coberto com lâminas de amêndoas assadas.",
+    "preco": "R$ 150,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Camarões refogados com alho e cebola, flambados no vinho branco. Servido sobreespaguete ao molho bechamel e espinafre. Gratinado com queijo muçarela e parmesão.",
+    "preco": "R$ 172,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Florentina",
+    "descricao": "Camarões refogados com alho e cebola, flambados no vinho branco. Servido sobreespaguete ao molho bechamel e espinafre. Gratinado com queijo muçarela e parmesão.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Praia de Búzios",
+    "descricao": "Arroz de leite com queijo coalho coberto com camarões refogados com coentro, cebola, alho, tomate fresco e nata. Gratinado com queijo coalho e coberto com batata palha.",
+    "preco": "R$ 159,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Iracema",
+    "descricao": "Arroz de leite com queijo coalho, coberto com 380g de camarões refogados comcoentro, cebola, alho, tomate fresco e nata. Gratinado com queijocoalho e acompanha macaxeira frita.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Praia de Olinda",
+    "descricao": "Camarões refogados com alho e cebola, servido sobre cremoso arroz com manjericão,envolvido com molho branco. Gratinado com queijo muçarela. Acompanha batata palha.",
+    "preco": "R$ 159,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Mediterrâneo",
+    "descricao": "Camarões refogados no azeite com alho e cebola, servido sobre cremosoarroz com manjericão, envolvido com molho branco. Gratinado com queijosmuçarela e parmesão. Acompanha batata palha.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Capri",
+    "descricao": "Camarões grelhados envolvidos em fettuccine, berinjela, abobrinha, tomate seco, creme de leite fresco e molho pesto de manjericão.",
+    "preco": "R$ 144,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Ibiza",
+    "descricao": "Camarões empanados com gergelim, acompanhados de arroz com leite de coco, molho de tomates frescos, nata, mix de pimentões, cebola, coentro e cebolinha.",
+    "preco": "R$ 151,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão Aruba",
+    "descricao": "Camarões salteados na cebola e alho, com molho leve de abóbora, leite de coco, tomate em cubos, lascas de coco, coentro e cebolinha. Acompanha baião de dois com carne seca, bacon, cebola roxa, queijo coalho, pimenta biquinho e nata fresca.",
+    "preco": "R$ 159,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Praia de Itamaracá",
+    "descricao": "Arroz à grega (ervilhas, pimentões, passas, cenoura e presunto) coberto com camarõesà milanesa, molho caseiro de tomate fresco. Gratinado com queijo muçarela.Acompanha batata palha.",
+    "preco": "R$ 166,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Praia de Tamandaré",
+    "descricao": "Espaguete italiano coberto com delicioso molho de tomate fresco acrescido detomate seco, azeitona, rúcula e camarões.",
+    "preco": "R$ 164,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bobó de Camarão",
+    "descricao": "Prato com consistência cremosa, feito com camarões refogados no azeite de dendê, comtomate, cebola, pimentões, misturados com purê de macaxeira cozida, coentro eleite de coco. Acompanha arroz branco e purê de abóbora gratinado com queijo coalho.",
+    "preco": "R$ 219,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Camarão à Delícia",
+    "descricao": "Tradicional receita cearense. Camarões servidos com molho a base de creme de leitee bananas fritas numa perfeita combinação. Gratinado com queijos muçarela e parmesão.Acompanha arroz branco e batata gratinada.",
+    "preco": "R$ 199,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Sirigado/Badejo ao Forno",
+    "descricao": "Filé de sirigado/badejo assado no forno com molho a base de natas e vinho branco, servido com tomate, batatas torneadas, cebola, pimentões, cenoura, coentro e alho frito. Acompanha arroz branco e farofa de bananas.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Sirigado/Badejo Meunière",
+    "descricao": "Filé de Sirigado grelhado com molho a base de laranja, limão, manteiga e um toque de alecrim fresco. Acompanha arroz branco e batata Chips.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela à Belle Meunière",
+    "descricao": "Peixe da estação grelhado com molho meunière, camarões, alcaparras, champignon e salsinha. Acompanha legumes grelhados e arroz de brócolis.",
+    "preco": "R$ 215,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela Meunière",
+    "descricao": "Filé de pescada amarela grelhado com molho a base de laranja, limão, manteiga e um toque de alecrim fresco. Acompanha legumes grelhados e arroz de brócolis.",
+    "preco": "R$ 205,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela à Delícia",
+    "descricao": "Tradicional nas famílias cearenses. Perfeita combinação de filé de pescada amarela com bananas fritas e molho à base de creme de leite, gratinado com queijos muçarela e parmesão. Acompanha arroz branco e batatas gratinadas.",
+    "preco": "R$ 207,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela ao Molho de Camarão",
+    "descricao": "Filé de pescada amarela grelhado e coberto com molho de camarão, com tomate,coentro e leite de coco. Acompanha arroz branco.",
+    "preco": "R$ 216,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela  Amalfitana",
+    "descricao": "Filé de peixe ao forno com leve molho amanteigado de tomates cerejas, alcaparras,vinho branco e manjericão. Acompanha batatas ao forno e arroz cremoso compesto de manjericão",
+    "preco": "R$ 220,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pescada Amarela Crocante",
+    "descricao": "Filé de peixe empanado ao coco levemente adocicado e farinha de pães frescos, crocante por fora e macio por dentro. Acompanha arroz de castanha e maionese de batata com picles de pepino.",
+    "preco": "R$ 209,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salmão à Matias Beck",
+    "descricao": "Filé de salmão grelhado com manteiga, nozes, champignon e salsinha. Acompanha arrozde brócolis e cuscuz marroquino, com brócolis, cenoura, couve-flor, alho, cebola, pimentão.",
+    "preco": "R$ 216,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salmão em Crosta de Gergelim",
+    "descricao": "Filé de salmão grelhado c/ crosta de gergelim, molho teriyaki. Acompanha arroz brancoe cuscuz marroquino, com brócolis, cenoura, couve-flor, alho, cebola, pimentão.",
+    "preco": "R$ 209,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salmão com Vinagrete de Manga",
+    "descricao": "Acompanha vinagrete de manga da casa e arroz branco",
+    "preco": "R$ 204,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau à Espanhola",
+    "descricao": "Lombo de bacalhau coberto com cebolas, alho, tomate, salsinha, pimentões, azeitonas pretas e vinho branco, servido sobre uma camada de batatas laminadas gratinadas. Acompanha arroz branco.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau à Gomes de Sá",
+    "descricao": "Lombo de bacalhau em lascas assado com cebola, mix de pimentões, batatas, ovos, cebolinha, e azeitonas azapa. Acompanha arroz de brócolis e farofa de ovos.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau com Natas",
+    "descricao": "Lombo de Bacalhau em lascas sobre fatias de batata inglesa com molho da casa à base de nata. Gratinado com queijo parmesão e muçarela. Acompanha arroz com brócolis e farofa de ovos.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau em Crosta",
+    "descricao": "Lombo de bacalhau sobre batatas, coberto com pesto de azeitonas pretas e crosta de pão.Envolvidos com azeite virgem, tomates cerejas e cebola. Acompanha arroz de brócolis.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bacalhau à Lagareiro",
+    "descricao": "Lombo de bacalhau assado no forno com azeite, alho confitado, cebola, ovos, tomate, azeitona azapa, batata, abóbora e brócolis. Acompanha arroz com brócolis.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tilápia à Meunière",
+    "descricao": "Filé de tilápia grelhado com molho meunière, alcaparras, champignon e ervilhas. Acompanha arroz com brócolis e legumes.",
+    "preco": "R$ 188,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tilápia Pescador",
+    "descricao": "Filé de Tilápia grelhado com molho a base de azeite, cebolas, alcaparras e salsinha. Acompanha arroz de alho e batata soutê",
+    "preco": "R$ 162,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tilápia Coco Brasil",
+    "descricao": "Filé de Tilápia com crosta de pão de alho, pesto de rúcula e cebola caramelada picada.Acompanha purê de mandioquinha e arroz branco.",
+    "preco": "R$ 185,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tilápia à Delícia",
+    "descricao": "Tilápia com bananas fritas e molho branco, gratinado com queijos muçarela e parmesão. Acompanha arroz branco e batatas gratinadas.",
+    "preco": "R$ 166,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tilápia ao Molho de Camarão",
+    "descricao": "Filé de peixe grelhado e coberto com molho de camarão, com tomate, pimentões, cheiro verde e leite de coco. Acompanha arroz branco.",
+    "preco": "R$ 159,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Moqueca Cearense de Camarão",
+    "descricao": "De origem indígena com toques cearenses. Nossa moqueca é feita com tomate, cebola e pimentõesrefogados, pimenta de cheiro, acrescidas de leite de coco, azeite de dendê e coentro.",
+    "preco": "R$ 209,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Moqueca Cearense de Peixe",
+    "descricao": "De origem indígena com toques cearenses. Nossa moqueca é feita com tomate, cebola e pimentõesrefogados, pimenta de cheiro, acrescidas de leite de coco, azeite de dendê e coentro.",
+    "preco": "R$ 231,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Moqueca Cearense Mista",
+    "descricao": "De origem indígena com toques cearenses. Nossa moqueca é feita com tomate, cebola e pimentões refogados, pimenta de cheiro, acrescidas de leite de coco, azeite de dendê e coentro.",
+    "preco": "R$ 227,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Peixada Cearense",
+    "descricao": "Ensopado de filé de peixe, tomate, cebola, coentro, pimentões, leite de coco, batatas, cenouras,repolho e ovos cozidos. Acompanha pirão e arroz branco.",
+    "preco": "R$ 231,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Paella Caldosa Coco Bambu",
+    "descricao": "Arroz caldoso com camarão, lula, polvo, peixe e mexilhão, refogado com pimentões, ervilha, especiarias e um leve toque de açafrão. Servidos na paellera. Rico em sabor e apresentação.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Rede de Pescador com Polvo",
+    "descricao": "Indescritível prazer do mar nordestino. Polvo, camarão, mexilhões, peixe e lula grelhados com molho provençal. Acompanha arroz de açafrão com parmesão.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Polvo à Provençal",
+    "descricao": "Polvo refogado ao molho provençal com tomate seco. Acompanha arroz de brócolis e batata ao forno.",
+    "preco": "R$ 279,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Arroz de pescador",
+    "descricao": "Delicioso arroz feito com consumê de peixe, camarão, lula, polvo e pescada amarela.",
+    "preco": "R$ 226,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé à Paulista",
+    "descricao": "\\",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé à Parmegiana",
+    "descricao": "Filé mignon à milanesa envoltos em molho caseiro de tomate fresco e gratinado com queijos muçarela e parmesão. Servido com espaguete no próprio molho ou com arroz branco e batatas fritas.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé com Ervas",
+    "descricao": "Medalhões de filé mignon grelhados, cobertos com nata de ervas.Acompanha arroz à piemontese gratinado e batatas recheadas.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé aos Quatro Queijos",
+    "descricao": "Medalhões de filé grelhados e flambados com conhaque e molho cremoso quatroqueijos. Acompanha arroz à grega e batata recheada.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé ao Molho de Mostarda",
+    "descricao": "Medalhões de filé mignon grelhados com bacon, flambados com conhaque e molho demostarda. Acompanha arroz branco e batata ao murro.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé ao Molho Madeira",
+    "descricao": "Medalhões de filé grelhados envolvidos com bacon, grelhados, flambadoscom conhaque, molho madeira tradicional e champignons. Acompanha arrozbranco e batata recheada.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé Alfredo",
+    "descricao": "Medalhões de Filé Mignon envolvidos com bacon com molho funghi acompanhado de fettuccine com molho Alfredo preparado com creme de leite fresco.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé Paris",
+    "descricao": "Filé mignon coberto com manteiga preparada na casa com mostarda e ervas. Acompanha batatas fritas e arroz à piemontese gratinado.",
+    "preco": "R$ 310,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Picadinho de Filé Coco Bambu",
+    "descricao": "Filé mignon picado, refogado com cebola e alho, flambado e acrescido de vinho tinto e molhoroti especial da casa. Coberto com ovos pochê. Acompanha farofa de banana e arroz branco.",
+    "preco": "R$ 202,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Strogonoff de Filé Mignon",
+    "descricao": "Picadinho de filé mignon com molho de strogonoff à base de conhaque, creme de leite ecom cogumelos paris frescos. Salpicado com batata palha e acompanhado de arroz branco.",
+    "preco": "R$ 190,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Picanha Coco Bambu",
+    "descricao": "O corte preferido dos nossos churrascos, acompanhada de vinagrete, chimichurri, farofa amarela, mandioca cozida e arroz biro biro.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol do Sertão",
+    "descricao": "Arroz de leite com queijo coalho, coberto com carne de sol desfiada e refogada namanteiga da terra com cebola roxa, nata e coentro. Gratinada com queijo coalho.Acompanha macaxeira frita.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol Alfredo",
+    "descricao": "Carne de Sol desfiada grelhada sobre fettuccine com molho alfredo e bacon.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol do Maranhão",
+    "descricao": "Deliciosa peça inteira de carne de sol de filé mignon. Acompanha baião de dois, farofa de ovos,banana à milanesa, cebola roxa refogada, purê de macaxeira gratinado com queijo coalho e vinagrete.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carne de Sol Coco Bambu",
+    "descricao": "Carne de sol de filé mignon sobre uma cama de macaxeira cozida com manteiga da terra coberta com queijo coalho grelhado com melaço de cana. Acompanha melaço de cana, porção de baião de dois, vinagrete e farofa.",
+    "preco": "R$ 314,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Frango Primavera",
+    "descricao": "Filé de frango grelhado com estragão. Acompanha legumes grelhados ao vapor e arroz de alho.",
+    "preco": "R$ 172,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Filé de Frango à Parmegiana",
+    "descricao": "Filé de Frango à milanesa envoltos em molho caseiro de tomate fresco e gratinado com queijos muçarela e parmesão. Servido com espaguete no próprio molho.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chicken Alfredo",
+    "descricao": "Filé de peito de frango grelhado sobre fettuccine com molho alfredo e Bacon.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vegetariano",
+    "descricao": "",
+    "preco": "R$ 60,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vegano",
+    "descricao": "Filé grelhado, arroz e batatas fritas*.*TROQUE A BATATA FRITA POR PURE DE BATATAS OU LEGUMES.",
+    "preco": "R$ 66,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Frango",
+    "descricao": "Filé de frango grelhado, arroz e batatas fritas*.*TROQUE A BATATA FRITA POR PURE DE BATATAS OU LEGUMES.",
+    "preco": "R$ 46,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Parmegiana",
+    "descricao": "Filé Mignon à milanesa com espaguete e molho de tomate.",
+    "preco": "R$ 71,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Pasta",
+    "descricao": "Delicioso espaguete ao molho branco ou molho de tomate ou alho e óleo.",
+    "preco": "R$ 45,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Peixe",
+    "descricao": "Filé de tilápia grelhado, molho pesto, arroz e purê de batata.",
+    "preco": "R$ 48,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid's Coco Bambu",
+    "descricao": "Filé grelhado e cortado em cubos, arroz, batatas fritas, feijão do dia e farofa da casa.",
+    "preco": "R$ 71,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid’s Frango Parmegiana",
+    "descricao": "Frango à milanesa com espaguete e molho de tomates frescos.",
+    "preco": "R$ 54,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Kid's Camarão",
+    "descricao": "Camarão empanado com Panko, arroz branco e purê de batata.",
+    "preco": "R$ 54,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada de Salmão",
+    "descricao": "Ceviche de Salmão, alface americana, alface crespa, alface roxa, rúcula, azeitonas pretas e tomate cereja. Servida na casquinha de pizza.",
+    "preco": "R$ 75,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Tropical",
+    "descricao": "95g camarões grelhados, folhas verdes, manga, tomate cereja, cenoura e castanha de caju. Temperada com molho especial. Servida na casquinha de pizza.",
+    "preco": "R$ 63,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Caesar",
+    "descricao": "Alface americana,  parmesão ralado, molho caesar e croûtons. Servida na casquinha de pizza.",
+    "preco": ""
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Alface americana, frango grelhado fatiado, parmesão ralado, molho caesar e croûtons. Servida na casquinha de pizza.",
+    "preco": "R$ 60,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Mix de folhas verdes sobre carpaccio de carne temperado com molho de alcaparras, mostarda e parmesão. Servida na casquinha de pizza.",
+    "preco": "R$ 73,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Costa Azul",
+    "descricao": "Mix de folhas verdes com lâminas de camarão marinado no pesto de alcaparra e parmesão cobertos com camarões salteados. Servida na casquinha de pizza.",
+    "preco": "R$ 72,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Salada Coco Bambu",
+    "descricao": "Mix de folhas verdes, palmito, tomates cereja, camarões e cogumelos shiitake com molho vinagrete especial. Servida na casquinha de pizza.",
+    "preco": "R$ 74,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Alface americana, cenoura, palmito, tomate cereja, queijo parmesão, molho de mostarda com mel e batata palha.",
+    "preco": "R$ 42,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "",
+    "preco": "R$ 19,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Gelato De Cookies And Cream",
+    "descricao": "Delicioso e cremoso Gelato italiano de Doce de Leite. Acompanha doce de leite Argentino. Fabricação própria Coco Bambu.",
+    "preco": "R$ 19,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Lactose",
+    "descricao": "Delicioso e cremoso Gelato Italiano de Pistache com raspas de pistache. Fabricação própria Coco Bambu.",
+    "preco": "R$ 19,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Mix de Gelato 4 Sabores",
+    "descricao": "Mix de quatro sabores de gelato artesanal servido em uma tábua personalizada. Sabores disponíveis: Queijo com goiabada, Cookies and cream, doce de leite, creme e brigadeiro e Pistache",
+    "preco": "R$ 61,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "",
+    "preco": "R$ 40,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Classica receita de brownie com chocolate branco e pistache. Acompanha sorvete de pistache.",
+    "preco": "R$ 40,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Elaborada com coco ralado fresco e leite condensado. Dourada ao forno e servida quente.",
+    "preco": "R$ 38,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Delicioso e cremoso brigadeiro servido na taça. Coberto com bolinhas crocantes.",
+    "preco": "R$ 37,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Bolinho quente de doce de leite. Acompanha sorvete de creme.",
+    "preco": "R$ 56,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Legítima receita italiana.",
+    "preco": "R$ 33,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Rodela de abacaxi servida com raspas de gelo e limão.",
+    "preco": "R$ 22,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Lactose",
+    "descricao": "Bolo de chocolate americano com nozes. Coberto com calda de chocolate quentee sorvete de creme.",
+    "preco": "R$ 42,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "",
+    "preco": "R$ 91,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pudim Inteiro Grande",
+    "descricao": "Torta de Limão",
+    "preco": "R$ 180,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Coco fresco desfiado assado e leite condensado.",
+    "preco": "R$ 121,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cheeseburger",
+    "descricao": "",
+    "preco": "R$ 93,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Camarões grelhados, salpicados com alho frito e salsinha no azeite de oliva. Acompanha arroz com brócolis e legumes salteados na manteiga de ervas.",
+    "preco": "R$ 93,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Filet de tilápia grelhado com molho meunière, alcaparras, champignon e ervilhas. Acompanha arroz com brócolis e legumes.",
+    "preco": "R$ 91,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Filé mignon à milanesa envoltos em molho caseiro de tomate fresco e gratinado com queijos muçarela e parmesão. Servido com espaguete no próprio molho ou com arroz branco e batatas fritas.",
+    "preco": "R$ 103,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Acompanhado de Arroz Branco, Feijão Carioca, Batata Chips e Vinagrete.",
+    "preco": "R$ 39,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "Carne de Sol desfiada grelhada sobre fettuccine com molho alfredo e bacon.",
+    "preco": "R$ 57,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Glúten",
+    "descricao": "",
+    "preco": "R$ 13,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Abacaxi c/ Hortelã",
+    "descricao": "",
+    "preco": "R$ 13,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cajá",
+    "descricao": "",
+    "preco": "R$ 13,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cupuaçu",
+    "descricao": "Morango, Cereja e Blueberry - P/ acrescentar: Laranja +R$ 2, Leite +R$ 2 ou Leite condensado +R$ 6.",
+    "preco": "R$ 26,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Goiaba",
+    "descricao": "**Fruta da Estação**",
+    "preco": "R$ 13,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Laranja",
+    "descricao": "",
+    "preco": "R$ 13,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Manga",
+    "descricao": "",
+    "preco": "R$ 13,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Melancia",
+    "descricao": "",
+    "preco": "R$ 13,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Seriguela",
+    "descricao": "**Fruta da Estação**",
+    "preco": "R$ 13,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Suco de Uva Integral Casa Madeira",
+    "descricao": "",
+    "preco": "R$ 9,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Água Minalba Premium",
+    "descricao": "Elaborada a partir de água gaseificada e extrato vegetal de quinino. O quinino é extraído da casca de uma planta denominada chichona ou quina, conhecida por suas qualidades medicinais, como auxiliar no processo digestivo. Com sabor natural e leve, a Tônica Antarctica é líder absoluta em seu segmento.\\n",
+    "preco": "R$ 9,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Café Nespresso Descafeinado",
+    "descricao": "Leggero é um blend suave e refrescante de cafés sul-americanos. Arábicas levemente torrads do Brasil e da Colômbia e um Robusta conferem-lhe um corpo leve e aveludado, notas de cereais torrados e cacau com aquele toque de acidez e amargor. Receitas com leite revelam uma doçura de caramelo maltado no Leggero, mas os aromas complexos deste café Espresso ainda brilham.",
+    "preco": "R$ 9,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Café Nespresso Ristretto",
+    "descricao": "",
+    "preco": "R$ 8,40"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coca-Cola",
+    "descricao": "Em 1921, nasceu, no Brasil, o Guaraná Antarctica. Produzido com uma frutinha amazonense de sabor agradável, é um refrigerante natural, leve e original, que conquistou o mercado exterior, particularmente Japão, onde lidera um ranking de dez diferentes marcas.\\n",
+    "preco": "R$ 9,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Red Bull",
+    "descricao": "Bebida levemente gaseificada, com zero de açúcar, fonte de vitaminas B e suco natural de limão.",
+    "preco": "R$ 10,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Schweppes Citrus",
+    "descricao": "Muito apreciado por sua refrescância, Soda Limonada Antarctica é um refrigerante leve e natural de sabor limão. É produzido a partir de uma fórmula exclusiva, composta basicamente de água gaseificada e sucos de frutos naturais.\\n",
+    "preco": "R$ 9,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pink Lemonade",
+    "descricao": "Sabores: Abacaxi, morango, maçã verde, tangerina, limão siciliano, maracujá.\\n\\n",
+    "preco": "R$ 19,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Água Tônica",
+    "descricao": "A água pode ser consumida com uma variedade de alimentos e é importante para manter o corpo hidratado.",
+    "preco": "R$ 8,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Schweppes Citrus",
+    "descricao": "Cappuccino com Borda de Nutella 100ml",
+    "preco": "R$ 12,60"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Budweiser",
+    "descricao": "",
+    "preco": "R$ 14,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Antarctica Original",
+    "descricao": "Autoridade em cerveja. Uma das primeiras puro malte do mundo e uma das cervejarias oficiais da Oktoberfest de Munique, na Alemanha. Feita com um rigoroso processo, seguindo a receita de Munique, onde foi criada em 1397. Uma cerveja puro malte com um sabor marcante e amargor presente.",
+    "preco": "R$ 19,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Stella Artois",
+    "descricao": "Corona Extra é a cerveja mais vendida e a marca mais exportada do México. Esta cerveja do tipo Pilsen foi produzida pela primeira vez em 1925 pela Cervecería Modelo, localizada na Cidade do México. Possui sabor leve de baixa graduação alcoólica. Uma fatia de limão no gargalo reforça a acidez com suas doses cítricas, fazendo com que a experiência de tomar a Corona se torne especial. Corona não é só uma cerveja, é um estilo de vida. Um convite para se desconectar da rotina e aproveitar mais a vida lá fora, na praia e curtindo um pôr do sol com os amigos.",
+    "preco": "R$ 17,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chopp Brahma",
+    "descricao": "Stella Artois Sem Gluten",
+    "preco": "R$ 15,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Acerola Martini",
+    "descricao": "",
+    "preco": "R$ 23,10"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Aperol Spritz\\r\\n",
+    "descricao": "Água tônica, e Xarope Monin de Maçã Verde.\\n",
+    "preco": "R$ 23,10"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Apple Martini",
+    "descricao": "Espumante e purê de pêssego.",
+    "preco": "R$ 26,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bloody Mary",
+    "descricao": "Licor 43 e Café Nespresso Ristretto.\\n",
+    "preco": "R$ 37,80"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Lactose",
+    "descricao": "Vodka, licor de laranja, suco de Cranberry e toque de limão.",
+    "preco": "R$ 31,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cozumel",
+    "descricao": "Martini, gin e azeitona verde.\\n",
+    "preco": "R$ 24,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Espresso Martini",
+    "descricao": "Gin Tanqueray, suco de limão siciliano, syrup, angostura bitters",
+    "preco": "R$ 34,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Gin Caju",
+    "descricao": "Gin Tanqueray e Schweppes Citrus.",
+    "preco": "R$ 37,80"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Gin Frutas Vermelhas Sem Álcool",
+    "descricao": "Gin Tanqueray, Água tônica e espuma de gengibre.",
+    "preco": "R$ 37,80"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ovo",
+    "descricao": "Gin Tanqueray, água tônica, tangerina e mel.",
+    "preco": "R$ 34,70"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Gin Tônica",
+    "descricao": "Gin, água tônica, infusão de chá de frutas vermelhas e morango.",
+    "preco": "R$ 36,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Gin Tônica Sem Álcool",
+    "descricao": "Vodka, água de coco, purr de lichia, limão siciliano e lichia.",
+    "preco": "R$ 31,50"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Manhattan",
+    "descricao": "Tequila, licor de laranja e suco de limão.",
+    "preco": "R$ 30,50"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Mojito",
+    "descricao": "Vodka, suco de limão, gengibre e espuma de gengibre.",
+    "preco": "R$ 33,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Negroni",
+    "descricao": "Suco de abacaxi, leite de coco, rum, creme de leite e leite condensado.",
+    "preco": "R$ 35,70"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Sangria (Jarra)",
+    "descricao": "Vodka, licor de Pêssego, suco de laranja e xarope de frutas vermelhas.",
+    "preco": "R$ 35,70"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "OLD FASHIONED",
+    "descricao": "Vodka importado, Aperol, limão siciliano e gengibre",
+    "preco": "R$ 33,70"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Limoncello Spritz",
+    "descricao": "Vinho Branco, licor de laranja, conhaque, soda e mix de frutas.\\n",
+    "preco": "R$ 79,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Blue Mojito",
+    "descricao": "Tequila, licor de laranja e suco de limão.",
+    "preco": "R$ 31,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Apple Martini",
+    "descricao": "Kiwi, uva verde sem caroço, maçã verde, hortelã e vodka Absolut Vanilla.",
+    "preco": "R$ 31,50"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Sertanejo",
+    "descricao": "Morango, limão siciliano e vodka Absolut.\\n",
+    "preco": "R$ 31,50"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Axé",
+    "descricao": "Morango, tomate cereja e vodka Absolut Vanilla.",
+    "preco": "R$ 30,50"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Caipi Honolulu",
+    "descricao": "",
+    "preco": "R$ 28,40"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Caipi Frutas Vermelhas",
+    "descricao": "Caipirinha de Abacaxi.",
+    "preco": "R$ 28,40"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "CaipiCaju",
+    "descricao": "Caipirinha de Coco.",
+    "preco": "R$ 28,40"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "CaipiKiwi",
+    "descricao": "Caipirinha de Lichia.",
+    "preco": "R$ 28,40"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "CaipiLima da Pérsia",
+    "descricao": "Caipirinha de Limão.",
+    "preco": "R$ 25,20"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "CaipiMaçã Verde",
+    "descricao": "Caipirinha de Manga.",
+    "preco": "R$ 28,40"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "CaipiMaracujá",
+    "descricao": "Caipirinha de Morango.",
+    "preco": "R$ 29,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Black Label - 12 anos (Dose)",
+    "descricao": "",
+    "preco": "R$ 136,50"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cachaça Coco Bambu (Dose)",
+    "descricao": "",
+    "preco": "R$ 83,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cachaça Ypióca 160 Anos (Dose)",
+    "descricao": "Dose Aperitivo Campari",
+    "preco": "R$ 17,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chivas Regal - 12 anos (Dose)",
+    "descricao": "Dose Digestivo Conhaque Domecq Oro - Brasil",
+    "preco": "R$ 15,80"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Conhaque Fundador - Espanha (Dose)",
+    "descricao": "Dose Gin Nacional Seagers",
+    "preco": "R$ 25,20"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Gin Tanqueray (Dose)",
+    "descricao": "Dose Whisky Premium Grand Old Par - 12 anos",
+    "preco": "R$ 24,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Jack Daniel's - 12 anos (Dose)",
+    "descricao": "Dose Digestivo Licor 43 - Ervas - Espanha",
+    "preco": "R$ 27,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Lactose",
+    "descricao": "Dose Digestivo Licor Baileys - Malte e Creme - Irlanda",
+    "preco": "R$ 24,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Licor Chambord (Dose)",
+    "descricao": "Dose Vodka Smirnoff",
+    "preco": "R$ 19,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Dose Gold Label",
+    "descricao": "Dose Vodka Ketel One",
+    "preco": "R$ 24,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Dose Vodka Grey Goose",
+    "descricao": "Dose Vodka Ciroc",
+    "preco": "R$ 28,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vodka Belvedere (dose)",
+    "descricao": "Dose Vodka Absolut",
+    "preco": "R$ 23,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cachaça Sagatiba (Dose)",
+    "descricao": "Dose Digestivo Licor Cointreau - Laranja - Brasil",
+    "preco": "R$ 24,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Licor Frangelico - Avelã - Itália",
+    "descricao": "Dose Digestivo Licor Peachtree - Pêssego - Holanda",
+    "preco": "R$ 27,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Branco",
+    "descricao": "",
+    "preco": "R$ 30,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Branco Português  Alentejano",
+    "descricao": "Elaborado pelo grupo casa valduga, é leve de muito frescor, perlagem fina intensa de ótima persistência, na boca revela aromas de frutas tropicais, ideal para harmonizar com frutos do mar, peixes e carnes brancas.",
+    "preco": "R$ 119,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Brut",
+    "descricao": "Elaborado pelo grupo casa valduga, é leve de muito frescor, perlagem fina intensa de ótima persistência, na boca revela aromas de frutas tropicais, ideal para harmonizar com frutos do mar, peixes e carnes brancas.",
+    "preco": "R$ 119,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Rosé",
+    "descricao": "Vinho Português Alentejano, cor salmão pálido brilhante. Aroma cativante pela sua frescura mineral. Na boca mostra corpo médio, notas de toranja verde e pele de ameixa branca.",
+    "preco": "R$ 119,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Brunello di Montalcino",
+    "descricao": "Apresenta uma cor amarela, levemente intensa, com reflexos esverdeados.Aromas predominantes de frutas cítricas, tropicais e maçã verde. Com bom frescor, característico da variedade. Vinho elegante, fresco e com boa acidez.",
+    "preco": "R$ 100,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Trapiche Vineyards Chardonnay",
+    "descricao": "É um vinho amarelo com leves tonalidades de verde. Com notas de maçãs verdes e abacaxi. Apresenta-se na boca com um sabor fresco, frutado e de corpo leve.",
+    "preco": "R$ 142,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Callia Alta Torrontés",
+    "descricao": "Cuidadosa seleção de uvas, seguida do desengace. Primeiramente é realizado um resfriamento das uvas, que logo passam à prensa pneumática por 1 hora. Posteriormente passa-se o líquido obtido a tanques de decantação por 24-48 horas, e em seguida a tanques de fermentação a temperatura controlada de 15° C, com leveduras naturais, até o fim da fermentação. Estabiliza-se o vinho, que sofre então uma ligeira filtração antes de ser engarrafado.",
+    "preco": "R$ 189,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Alfredo Roca Chardonnay",
+    "descricao": "Frutas amarelas, cítrico, baunilha.",
+    "preco": "R$ 212,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Colomé  torrontes",
+    "descricao": "Ao saborear o Alamos Chardonnay, você será surpreendido por sua acidez equilibrada e sua textura cremosa. Os sabores vibrantes de frutas cítricas se combinam harmoniosamente com nuances de pêssego e uma nota refrescante de maçã verde, proporcionando uma experiência de sabor única e marcante.",
+    "preco": "R$ 244,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Alamos Sauvignon Blanc",
+    "descricao": "Um dos poucos vinhos argentinos feitos com essa grande uva! Produzido a partir de um vinhedo com mais de 60 anos, exibe aroma típico e elegante, de cítricos (limão, lima), rosa, pêssego e mineral. Mediano de corpo, seco, acidez vigorosa, deliciosa, ótima persistência.",
+    "preco": "R$ 303,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Catena Zapata Catena Chardonnay",
+    "descricao": "Aromas cítricos e boa acidez fazem deste vinho uma boa pedida para acompanhar aperitivo.",
+    "preco": "R$ 380,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Angelica Zapata Chardonnay",
+    "descricao": "Angelica Zapata é o melhor Chardonnay de Catena produzido para o mercado interno argentino, onde é considerado o melhor branco do país. Incrivelmente concentrado e potente, possui uma textura redonda e macia, com um leve toque amanteigado. As uvas são do magnífico vinhedo Adrianna, considerado o primeiro Grande Cru da América do Sul e localizado a 1480m de altitude. A grande amplitude térmica e as temperaturas mais baixas dão origem a uma elegância e profundidade que são encontradas apenas nos m",
+    "preco": "R$ 635,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Catena Alta Chardonnay",
+    "descricao": "Maceração atenuada das uvas antes da fermentação alcoólica que acontece em cubas de aço inoxidável.",
+    "preco": "R$ 244,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Trapiche Astica Merlot Malbec",
+    "descricao": "Um pouco intenso demais sozinho, mas combina muito bem com carne de porco e carne, notas de frutas vermelhas, especialmente na parte de trás da boca, com uma última trilha e sabor, você pode sentir claramente que é um vinho jovem que não envelheceu , com uma cor vermelha translúcida e um mineral e de alguma forma suaves.",
+    "preco": "R$ 142,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Cordero con Piel de Lobo Bonarda",
+    "descricao": "O consagrado Alamos Malbec é um dos mais emblemáticos vinhos da Argentina. Seguindo a tendência mundial de vinhos mais gastronômicos e menos alcoólicos, Catena apresenta na safra de 2016 uma versão impressionantemente elegante do Alamos Malbec, que recebeu nada menos que 91 pontos de James Suckling. Segundo o crítico, que ficou impressionado com o novo estilo do vinho, trata-se de “uma das melhores compras de todo o mercado”, elogiando o “equilíbrio e finesse” do tinto. Sem dúvida um dos eternos achados do Novo Mundo e um dos mais clássicos Malbecs da Argentina.\\nO vinho maturou entre 6 e 9 meses em barrica de carvalho. 75% Frances e 25% Americano, sendo 30% novo.\\n\\nHarmonização\\n\\nCarnes vermelhas, churrasco, hamburger, massas.\\n\\n",
+    "preco": "R$ 157,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Portillo Malbec",
+    "descricao": "Seu aroma é complexo, combinando frutas vermelhas frescas e especiarias",
+    "preco": "R$ 161,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Finca La Linda Malbec",
+    "descricao": "Cor vermelha de uma grande vivacidade que é mostrada nos seus tons rubis, intenso e profundo para a variedade Pinot Noir. É elegante e interessante sua variação de aromas. Na boca é complexo e delicado.",
+    "preco": "R$ 191,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Uxmal",
+    "descricao": "Aromas de frutas vermelhas maduras, como framboesa, amora e ameixa, seguidos de notas de especiarias como baunilha.",
+    "preco": "R$ 216,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Las Moras Black Label",
+    "descricao": "Torta folhada com cogumelos variados. Pequenas aves em cocções diversas (ao forno, grelha ou em úmido). Queijos delicados como Brie, Camembert ou de cabra com cinzas.",
+    "preco": "R$ 232,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Alamos Malbec",
+    "descricao": "Com imenso prazer, apresento a você o excepcional Vinho Tinto Alamos Malbec 2021.",
+    "preco": "R$ 244,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Luigi Bosca Pinot Noir Reserva",
+    "descricao": "Vinho de cor vermelho rubi brilhante com aromas de morangos, violetas e leve toque de canela. Na boca apresenta corpo médio e boa concentração devido à passagem por barris de carvalho. Sua acidez é fresca e seus taninos são leves e finos. Final longo e frutado.",
+    "preco": "R$ 299,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "La Rural Rutini Cabernet Sauvignon",
+    "descricao": "O Vinho Rutini Cabernet Sauvignon leva a assinatura da Rutini Wines, uma tradicional vinícola de Mendoza, na Argentina. Elaborado com a uva Cabernet Sauvignon, oriunda de vinhedos em Gualtallary e Altamira. De coloração rubi intensa com reflexos violáceos, no nariz revela aromas de frutas vermelhas e negras maduras, como amora, notas mentoladas, nuances de especiarias, como pimenta-preta, além de toques de café e chocolate, advindos do estágio em carvalho. Um Vinho Tinto elegante e complexo. Em",
+    "preco": "R$ 363,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Catena Zapata Catena Malbec",
+    "descricao": "Profunda cor violeta escuro com reflexos rubi. Seu aroma remete a groselhas maduras, especiarias doces, frutas vermelhas e cassis. Em boca é um vinho complexo, com notas de cassis, tabaco e pimenta preta. Este Cabernet Sauvignon se caracteriza por sua elegância, seus taninos firmes e sólida estrutura, e seu final longo e persistente.",
+    "preco": "R$ 391,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Dv Catena Cabernet Malbec",
+    "descricao": "",
+    "preco": "R$ 447,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Alma Negra",
+    "descricao": "Cor: Vermelho intenso com reflexos púrpura. Aroma: Muito complexo e intenso com notas tostadas unidas aos sutis aromas de violeta, caramelo, chocolate amargo e geléia de figo. Paladar: Encorpado, com taninos maduros. Seu começo é doce e o final prolongado com notas de geléia de frutas vermelhas maduras, eucaliptos e tostados. SEPTIMA GRAN RESERVA Gran Reserva é a máxima expressão do trabalho de viticultura e enologia da Bodega Septima. É um vinho elaborado tendo como base a seleção dos melhores",
+    "preco": "R$ 476,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Dv Catena Malbec",
+    "descricao": "Este disputado Malbec é produzido para o mercado interno argentino, onde é cultuado e esgota-se rapidamente, alcançando preços estratosféricos em safras antigas. As uvas vêm de vinhas selecionadas, plantadas em grande altitude, com rendimentos muito baixos, que resultam em um vinho muito complexo e exuberante, com excelente presença de boca e enorme capacidade de envelhecimento.",
+    "preco": "R$ 756,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Catena Zapata Angelica Zapata Malbec",
+    "descricao": "Elaborado com castas finas e rígida seleção de uvas, Naturelle é o perfeito equilíbrio entre a leveza e o paladar adocicado.",
+    "preco": "R$ 85,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Miolo Terranova Moscatel",
+    "descricao": "Champenoise: elaboração do vinho base, engarrafamento e refermentação do vinho em garrafas de espumante, temperatura controlada na cave em 12ºC, maturação por 12 meses ocorrendo autólise de leveduras, remuage em pupitres, degorgement, arrolhamento e rotulagem.",
+    "preco": "R$ 117,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chandon Réserve Brut",
+    "descricao": "Champenoise: elaboração do vinho base, engarrafamento e refermentação do vinho em garrafas de espumante, temperatura controlada na cave em 12ºC, maturação por 12 meses ocorrendo autólise de leveduras, remuage em pupitres, degorgement, arrolhamento e rotulagem.",
+    "preco": "R$ 180,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Arte Brut Rosé",
+    "descricao": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça.  Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado.",
+    "preco": "R$ 194,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Luiz Argenta Jovem Brut",
+    "descricao": "Cereja claro, com perlage fino e persistente, frutas vermelhas (cerejas, framboesas), mas também há destaque para as notas cítricas e um leve mineral, prima pelo frescor, com uma estrutura bem balanceada entre açúcar e acidez, final frutado e cremoso",
+    "preco": "R$ 311,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Casa Valduga 130 Brut",
+    "descricao": "Branco composto a partir de Trebbiano, Catarrato e Chardonnay, sem passagem por madeira. Fresco e fácil de beber, mostra frutas brancas acompanhadas de notas florais e de ervas, que se confirmam na boca. De corpo médio, tem acidez na medida, textura cremosa e final com toques cítricos e de pêras",
+    "preco": "R$ 119,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vasto Branco",
+    "descricao": "$3fcb",
+    "preco": "R$ 119,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bueno Bellavista Estate Sauvignon Blanc",
+    "descricao": "Visual: Amarelo esverdeado, Brilhante, Límpido.Olfativo: Florais, Frutado, Melão, Pêssego.Gustativo: Equilibrado, Frutado, Leve.Harmonização: Queijos azuis, doces, frutas, sobremesas e pratos leves.",
+    "preco": "R$ 129,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Naturelle Branco",
+    "descricao": "",
+    "preco": "R$ 130,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Suave Naturelle Cabernet Franc Pinot",
+    "descricao": "Este vinho branco da coleção L.A. Jovem é elaborado com 100% de uvas Sauvignon Blanc.\\nApresenta uma coloração amarela pálida com intensos reflexos esvardeados. Seus aromas muito intensos lembram frutas tropicais, como maracujá, péssego, mamão e fruta-pinha.\\nNo paladar, é elegante, jovem e refrescante, com boa acidez e persistência. Ideal para acompanhar carpaccio, queijo de cabra, peixes com molhos cítricos e culinária japonesa.",
+    "preco": "R$ 274,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Luiz Argenta La Jovem Riesling",
+    "descricao": "Coloração amarela pálida com reflexos esverdeados. Aromas elegantes que lembram abacaxi maduro, damasco e pera. Sabor acentuado e persistente, acidez marcante porem equilibrada, leve toque sápido e retrogosto que lembra os aromas sentidos no olfato.",
+    "preco": "R$ 311,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Luiz Argenta La Jovem Sauvignon Blanc",
+    "descricao": "Inspirado no legado de Provence, a poesia e personalidade que só um autêntico rosé pode proporcionar.\\n\\n",
+    "preco": "R$ 109,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bueno Momentos Vin Rosé",
+    "descricao": "Proveniente do blend Moscato Hamburgo, Malvasia e Moscato Branco, Naturelle representa a história da Famiglia Valduga e o legado de gerações passadas. É um resgate do belo e simples. São as raízes mais profundas, o alicerce mais resistente, a inspiração mais doce.",
+    "preco": "R$ 130,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Naturelle Frisante Rosé",
+    "descricao": "Coloração vermelho cereja, límpido e brilhante. Intensidade aromática marcante com notas de frutas maduras, como framboesa, morango e cereja. Em boca é cremoso e de acidez moderada, com retrogosto frutado. Agradável ao paladar é um vinho refrescante e aveludado, com longa persistência.",
+    "preco": "R$ 180,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Fausto De Pizzato Cabernet Sauvignon",
+    "descricao": "A sensibilidade de conectar paixões. A delicadeza de um Merlot de textura elegante .",
+    "preco": "R$ 119,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bueno Petit Verdot Reserva",
+    "descricao": "Sob influência de solo pedregoso e clima quente, a Pinot Noir evidencia toda sua essência e ancestralidade. De textura incrivelmente sedosa, enaltece a diversidade de expressões, permeando entre frutas, flores e mineralidade.",
+    "preco": "R$ 180,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bueno Petit Verdot Reserva",
+    "descricao": "Com elegância, complexidade e personalidade, possui coloração rubi com tons violáceos e aromas com notas de amora, cacau, especiarias doces e baunilha. De acidez moderada, em boca é encorpado, com taninos macios e retrogosto longo com notas amadeiradas.",
+    "preco": "R$ 213,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Casa Valduga Leopoldina Terroir Merlot",
+    "descricao": "",
+    "preco": "R$ 225,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Paralelo 31 Gran Reserva",
+    "descricao": "O PARALELO 31, PONTO DE ENCONTRO DO TERROIR PERFEITO DO NOVO MUNDO, É O QUE UNE AUSTRÁLIA, NOVA ZELÂNDIA, ÁFRICA DO SUL, CHILE, ARGENTINA E A CAMPANHA, DO RIO GRANDE DO SUL.",
+    "preco": "R$ 239,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Luiz Argenta LA Clássico Cabernet Franc",
+    "descricao": "Um vinho de cor amarela com tons esverdeados e intenso aroma de abacaxi, banana e frutas cítricas. Na boca é suave e com acidez balanceada.",
+    "preco": "R$ 72,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tantehue",
+    "descricao": "É um vinho encorpado de longo final doce. Tem cor amarelo limão brilhante, além de aroma e sabor frutado com notas de abacaxi, frutas cítricas, pêssegos e toques baunilha.Equilibrado, harmoniza com peixes, frutos do mar e queijos.",
+    "preco": "R$ 123,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Indómita Varietal Sauvignon Blanc",
+    "descricao": "Um vinho brilhante. Com coloração amarela e nuances esverdeados. Possui um aroma cítrico muito intenso e expressivo com um toque exuberante de frutas, pimenta e flores brancas. É muito equilibrado na acidez, com personalidade e toques minerais e herbáceos. Final muito refrescante.",
+    "preco": "R$ 123,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Terranoble Chardonnay",
+    "descricao": "Com delicadas notas de banana e pêssego mescladas a toques tostados, este jovem Chardonnay é um branco agradável e fácil de gostar. Na boca é leve, equilibrado e cheio de frescor",
+    "preco": "R$ 132,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ramirana Chardonnay Sauvignon Blanc Reserva",
+    "descricao": "Um belíssimo resultado em que domina uma estimulante mineralidade calcária por baixo de um sofisticado frutado a maçãs e pêssegos. Um toque floral, base rica que suaviza o sabor e o torna mais atraente.",
+    "preco": "R$ 268,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tarapaca Gran Reserva Chardonnay",
+    "descricao": "Este Sauvignon Blanc tem um aroma sedutor! Flores brancas, abacaxi, notas de manga e maracujá bem definidas e com excelente intensidade. No paladar seu equilibrio é fantástico! Apresenta acidez natural, frutas cítricas vivas e um final refinado e límpido.",
+    "preco": "R$ 286,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Montes Alpha Chardonnay",
+    "descricao": "Estágio Em Carvalho Francês De Primeiro E Segundo Uso. A cor do vinho Ventisquero Grey Chardonnay é amarela dourada claro. No nariz é elegante, fresco e sofisticado, ressaltando aromas a frutas tropicais tipo mamão (papaia) e manga que integram de forma suave e harmoniosa aromas de mel e de baunilha. Na boca é um vinho redondo, de rica estrutura e acidez equilibrada, deixando um final de boca fresco e suave onde predominam aromas frutais e leves toques de baunilha.",
+    "preco": "R$ 437,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carmen Insigne Carmenere",
+    "descricao": "Saboroso tinto elaborado com a mais emblemática casta chilena, aCarmenère. Parcialmente barricado, para manter toda a exuberânciada fruta. Na boca mostra taninos suaves e macios, com sabor de geleiade frutas vermelhas, notas de menta e especiarias.",
+    "preco": "R$ 187,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "León De Tarapacá Cabernet Sauvignon",
+    "descricao": "vinho com notas de frutas vermelhas, taninos macios e acidez equilibrada",
+    "preco": "R$ 78,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Chilano Carménère",
+    "descricao": "",
+    "preco": "R$ 82,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ventisquero Tantehue Cabernet Sauvignon",
+    "descricao": "Um vinho tinto com personalidade, esta mistura é fresca e frutada e tem sabores que lembram mirtilo, ameixa e cereja preta. Possui um final agradável, com taninos suaves e redondos, e uma textura sedosa.",
+    "preco": "R$ 118,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Casillero del Diablo Cabernet Sauvignon",
+    "descricao": "Túnica vermelha intensa com alguns tons de violeta. Frutos silvestres, trufa e violetas e o toque de assinatura de especiarias e aromas grama deste vinho rico, intenso e chileno. Taninos suaves, sem carvalho, só de frescura e harmonia. Um vinho franco e sincero.",
+    "preco": "R$ 123,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Terranoble Cabernet Sauvignon",
+    "descricao": "É parcialmente barricado, para manter toda a exuberância da fruta. O bouquet é bastante complexo e cativante. Na boca mostra taninos suaves e macios, com sabor de geleia de frutas vermelhas, notas de menta e especiarias.",
+    "preco": "R$ 130,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "León De Tarapacá Cabernet Sauvignon",
+    "descricao": "Cor: Rubi intenso com reflexos violáceos.Aroma: Frutas vermelhas maduras, notas de especiarias e toques tostados e defumados.Sabor: Encorpado, com taninos presentes e final de boca intenso e elegante.",
+    "preco": "R$ 157,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vinho Ventisquero Classico Merlot",
+    "descricao": "Este vinho tem uma cor vermelha escura com aromas suaves de chocolate, frutas vermelhas e pimenta preta. É um vinho bem estruturado e macio com uma textura que enche a boca.",
+    "preco": "R$ 166,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Yali Wetland Reserva Pinot Noir",
+    "descricao": "Vinho rubi de baixa intensidade. Aromas de frutos em evolução, cassis, ameixa, levemente picante. Na boca tem corpo leve e dócil com final longo e frutado",
+    "preco": "R$ 204,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Santa Carolina Reservado Carmenère",
+    "descricao": "Reflete a fiel expressão desta cepa, com uma cor intensa e profunda que, junto com os aromas de frutos maduros, harmonizam com os toques de baunilha entregue pela guarda em barris. Ideal para acompanhar massas, queijos maduros e carnes brancas, caracteriza-se na boca por seu equilíbrio.",
+    "preco": "R$ 210,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vinho Tinto Ramirana Reserva",
+    "descricao": "A uva Carménère é muito similar à Merlot. A origem do nome está relacionada à cor de sua pele, que exibe tonalidade forte de carmim, palavra francesa que, em português, significa um vermelho intenso.",
+    "preco": "R$ 217,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vina Maipo Carmenere",
+    "descricao": "Cor vermelho intenso. Aromas ricos de flores, frutas vermelhas e escuras frescas. Podem-se definir aromas de coco, menta e pimenta negra. De boa acidez, textura sedutora e amplo paladar, um bom equilíbrio.",
+    "preco": "R$ 229,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Tabalí Pedregoso Gran Reserva Pinot Noir",
+    "descricao": "Rubi intenso com reflexos violáceos. Frutas vermelhas e pretas maduras, notas de especiarias e toques de chocolate.Médio corpo, com taninos balanceados e boa estrutura, seu final de boca é fresco, boa persistência e elegância.",
+    "preco": "R$ 243,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Carmen Premier Reserva Carmenère",
+    "descricao": "O Vinho Tarapacá Gran Reserva Cabernet Sauvignon revela notas expressivas e intensas de frutas vermelhas, como cereja e framboesa, e de frutas pretas maduras, como ameixa, amora e cassis. Esses aromas frutados se mesclam harmoniosamente com os de especiarias. O envelhecimento em barricas de carvalho entregou ao vinho notas agradáveis e doces, como caramelo, toffee e baunilha. Um Vinho Tinto estruturado, com corpo médio, taninos maduros e boa amplitude. PAÍS",
+    "preco": "R$ 272,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vinho Tarapacá Gran Reserva Cabernet Sauvignon",
+    "descricao": "Elaborado a partir de vinhas de aproximadamente 15 anos fincadas nos solos graníticos do Valle de Colchagua, La Joya Syrah destaca-se por seus taninos maduros e por suas agradáveis notas de amoras e especiarias.",
+    "preco": "R$ 285,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Bisquertt La Joya Gran Reserva",
+    "descricao": "Nascido pelas mãos de Marcelo Papa nas zonas mais privilegiadas para o cultivo da Cabernet Sauvignon na DO Maipo, é um elegante exemplar dos melhores tintos do Chile, com elegância e tipicidade.",
+    "preco": "R$ 357,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Montes Alpha Pinot Noir",
+    "descricao": "O nariz complexo oferece um sublime aroma de frutas silvestres maduras como figo e framboesa complementado com notas de creme de cassis, enquanto temperos como pimenta caiena aparecem sobre um fundo de chocolate amargo, que envolve divinamente os aromas sutis de couro e tabaco.Palato com taninos perfeitamente arredondados que acionam a explosão da fruta no meio-palato.",
+    "preco": "R$ 410,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Montes Alpha Carmenère",
+    "descricao": "",
+    "preco": "R$ 631,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ventisquero Pangea Syrah",
+    "descricao": "De cor rubi intenso e brilhante. Aromas complexos de couro, frutas negras e um leve herbáceo. Ao final a baunilha se apresenta. Na boca intensidade de taninos bem domados e cremosidade. Vinho para surpreender o paladar.",
+    "preco": "R$ 1.700,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Don Melchor Cabernet Sauvignon",
+    "descricao": "Cor: Dourado claro com reflexos verdeais com borbulhas finas e persistentesAroma: Bouquet muito fino e delicado, marcado por notas de frutas brancas com toque de pão frescoSabor: Bastante fresco e frutado com notas de damasco e pêssego branco. Apresenta boa intensidade de sabor e também bom equilíbrio entre seus componentesElaboração: Elaborado pelo método Charmat, onde a segunda fermentação é feita em grandes tanques de aço fechados. Neste caso, o vinho permaneceu nos tanques em contato com as leveduras por 6 meses, ganhando um bouquet mais rico e complexo.",
+    "preco": "R$ 202,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Moët & Chandon Impérial Brut",
+    "descricao": "A Brut Yellow Label é elaborado com vinhos de uvas de até 60 crus diferentes, principalmente da variedade Pinot Noir (50 a 55%), responsável pela estrutura típica da Veuve Clicquot. A uva Meunier (15 a 20%) arredonda o champagne, enquanto a Chardonnay (28 a 33%) lhe confere elegância e requinte. A proporção de vinhos de cada variedade varia de acordo com a safra. São utilizados vinhos com o mínimo de 30 meses de maturação em barricas de carvalho francês. De coloração amarelo palha, apresenta per",
+    "preco": "R$ 721,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Champagne Veuve Clicquot Brut",
+    "descricao": "De cor amarelo claro e brilhante com perlage fino e elegante. Aromas que lembram cereja e morango e especiarias. Bem estruturado.Na boca macio e persistente com um bom mousse.",
+    "preco": "R$ 801,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Veuve Clicquot Ponsardin Rosé",
+    "descricao": "Fazer “o melhor vinho do mundo” era o objetivo de Dom Pierre Pérignon quando assumiu a Abadia Beneditinade Hautvillers na região de Champagne na França em 1668. Ele dedicou sua vida em busca da perfeição e porisso ficou reconhecido como o criador das técnicas e da filosofia do champagne. Três séculos mais tarde essafilosofia continua na Maison Dom Pérignon com um vinho safrado e criado somente em anos de colheitasexcepcionais. Dom Perignon é produzida a partir das uvas Chardonnay e Pinot Noi",
+    "preco": "R$ 2.566,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Dom Pérignon Brut Champagne",
+    "descricao": "Características Visuais:\\nAmarelo Palha Esverdeado.\\n\\nCaracterísticas olfativas:\\nAromas de frutas cítricas com notas de pera e maça verde.\\n\\nCaracterísticas gustativas:\\nNa boca, é frutado e bem equilibrado entre o corpo e acidez.",
+    "preco": "R$ 222,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "La Vieille Ferme Blanc",
+    "descricao": "",
+    "preco": "R$ 551,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Rosé Piscine",
+    "descricao": "Este rosado delicioso é elaborado pela família Perrin, com uvas Cinsault, Grenache e Syrah de cultivo orgânico. Um vinho para beber a toda hora, que combina com uma grande variedade de petiscos, saladas e frutos do mar.",
+    "preco": "R$ 326,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Château Bel Air",
+    "descricao": "Rubi profundo com toques de púrpura. Aroma intenso e frutado, como cereja, groselha e leve toque de banana, complementados por notas florais, como violeta e peônia. A boca corresponde ao nariz. Equilibrado, com taninos discretos e macios, boa acidez e frescor.",
+    "preco": "R$ 315,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "La Vieille Ferme Rouge",
+    "descricao": "ElaboraçãoFermentado em tanques de aço inox com temperaturas controladas.",
+    "preco": "R$ 327,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Champagne Taittinger Brut Reserve",
+    "descricao": "",
+    "preco": "R$ 1.057,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Châteauneuf Du Pape",
+    "descricao": "Extremamente elegante, o Vinho E.Guigal Châteauneuf-Du-Pape é um exemplar de qualidade e com máxima pontuação pelos críticos de vinhos, ideal para degustar em momentos especiais. Elaborado em uma das vinícolas francesas mais admiradas do mundo, apresenta cor vermelho rubi e uma junção intensa de aromas que combinam notas de frutas vermelhas maduras, ameixa e especiarias, seguidas por toques acastanhados, reunidos em um paladar rico e encorpado, macio e redondo, equilibrando fruta e madeira, evoluindo para final persistente. Prove com carnes vermelhas grelhadas e assadas, carnes de caça, pato assado com molho de laranja, cassoulet, codorna com molho de ervas e risoto de cogumelos.",
+    "preco": "R$ 1.169,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Château Branaire-Ducru",
+    "descricao": "",
+    "preco": "R$ 98,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Lambrusco Cavicchioli Amabile Tinto",
+    "descricao": "Cor : amarelo palha brilhante com fina e persistente.\\r\\nBouquet : frutado e floral, com notas de maçã madura dourada e pequenas flores de montanha.\\r\\nSabor : seco, fresco e frutado na boca suave frutado com final e aromático.\\r\\nSirva em : 6-8 ° C",
+    "preco": "R$ 296,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Villa Fabrizia Frascati",
+    "descricao": "Cor amarelo pálido. Aromas com notas típicas de Pinot Grigio, pêra e frutas cítricas. Paladar com toques de baunilha, damasco e mel.",
+    "preco": "R$ 217,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vasto Rosé",
+    "descricao": "",
+    "preco": "R$ 119,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vasto Tinto Rosso",
+    "descricao": "",
+    "preco": "R$ 119,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Vasto Tinto Montepulciano d'Abruzzo",
+    "descricao": "",
+    "preco": "R$ 149,90"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Corvo",
+    "descricao": "Elaborado pela variedade de uva Primitivo, este vinho apresenta uma coloração vermelho rubi com reflexos violáceos, aromas de cassis, frutas vermelhas e ameixa, além de um paladar equilibrado com taninos macios. Ideal para harmonizar com pratos típicos, massas e carnes, este vinho é uma excelente opção para quem deseja desfrutar de uma experiência sensorial única e marcante.",
+    "preco": "R$ 200,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Sangiovese Rubicone Montecchio Tinto IGT",
+    "descricao": "O Vinho Chianti Ruffino DOCG é uma boa escolha para quem aprecia grandes vinhos e não abre mão da qualidade de uma vinícola consagrada. Produzido em vinhas da Itália, um dos grandes países do vinho, possui uma cor vermelho rubi especial e uma composição aromática de frutas como ameixa e cereja, seguidas por toques florais e picantes e um típico paladar de corpo médio, fresco, com taninos delicados e finais de boca frutados.",
+    "preco": "R$ 241,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Varvaglione 12 E Mezzo Primitivo Del Salento",
+    "descricao": "Um vinho italiano de excelência produzido pela Varvaglione Vigne & Vini. Com aromas intensos de ameixa, amora, alcaçuz e cacau, este vinho apresenta um paladar frutado e persistente, tornando a experiência sensorial única e envolvente. Ideal para harmonizar com pratos típicos e carnes, este vinho é aveludado em boca, mostrando uma boa integração do carvalho com a fruta.",
+    "preco": "R$ 307,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Papale Primitivo di Manduria",
+    "descricao": "Coloração rubi intenso com toque violáceos, traz aroma fresco e frutado, com notas de mirtilos, cassis e framboesa, com notas de caramelo, baunilha e tabaco, provenientes do seu estágio em barrica.",
+    "preco": "R$ 429,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Marchesi Di Barolo Tradizione",
+    "descricao": "2152 Possui aromas caracterizados por uma forte expressão varietal, com notas amplas de frutas vermelhas, framboesas e alcaçuz. Na boca o vinho é equilibrado, fino, com taninos levigados, boa acidez, sapidez e notas minerais que lhe conferem um final longo e persistente.",
+    "preco": "R$ 2.437,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Adega de Monção Branco",
+    "descricao": "Cor palha com tons esverdeados. Ao nariz é fino, aromas citrinos, maçã verde e mineral. Excelente frescor de boca, leve e muito atrativo.",
+    "preco": "R$ 168,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Ea Cartuxa Branco",
+    "descricao": "O vinho branco Quinta da Aveleda é produzido pela Aveleda Vinhos. A vinícola é sediada na região conhecida como Aveleda, mas com vinhedos por diversas regiões de Portugal. Sua história remonta ao Século XIX, quando Manoel Pedro Guedes de Silva da Fonseca muda-se para a região e dá ínicio a produção e comércio de vinhos.O termo Vinho Verde é uma Denominação de Origem Controlada (DOC), a qual determina a região e processo produtivo dos vinhos assim chamados. A região demarcada para o cultivo das u",
+    "preco": "R$ 235,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Muralhas de Monção Branco",
+    "descricao": "Este vinho associa a sua qualidade ao nome dos monges Cartuxos que, entre 1598 e 2019, levaram uma vida solitária de oração no Mosteiro de Santa Maria Scala Coeli. Tem por base as castas Antão Vaz, Roupeiro e Arinto, apresenta um aroma fino e um certo corpo, é persistente e harmonioso. Foi produzido pela primeira vez em 1986.",
+    "preco": "R$ 406,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Esporão Reserva Branco",
+    "descricao": "Denominado pelo produtor como um “vinho de exceção”, parte do Pêra Manca branco é fermentado em barricas francesas, passando depois por um período de 12 meses em contato com as borras e 6 meses em garrafa antes de ser comercializado.",
+    "preco": "R$ 1.632,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Jp Azeitão Rosé",
+    "descricao": "Para os apreciadores que buscam por qualidade e consistência permanente, o Pé tinto 2019 é a escolha ideal.",
+    "preco": "R$ 106,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Jp Azeitão Tinto",
+    "descricao": "Elaborado com as uvas Aragonez, Trincadeira, Alicante Bouschet. De aspeto límpido e de cor rubi intensa. No aroma apresenta notas a frutos vermelhos. Com mais personalidade, este vinho é ideal para acompanhar carnes e massas. No rótulo podemos observar a assinatura do nosso fundador Afranio Barreira, bem como a foto do primeiro restaurante em 1989.",
+    "preco": "R$ 119,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Tinto Português  Alentejano",
+    "descricao": "Tinto possui aromas de amoras maduras e especiarias, com sutis notas florais. No paladar, o Vinho Quinta do Cachão Touriga Nacional é seco, encorpado e persistente.",
+    "preco": "R$ 123,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Reguengos Alentejo D.O.C",
+    "descricao": "O Vinho Quinta de Bons Ventos é produzido com um corte das uvas Castelão, Camarate, Tinta Miúda e Touriga Nacional, oriundas de vinhedos na região vitivinícola de Lisboa, em Portugal. De coloração rubi profunda, revela aromas de frutas vermelhas e negras maduras, notas de madeira bem integradas e um toque de pimenta-negra. Um Vinho Tinto frutado e encorpado. Em boca, conta com taninos firmes e acidez bem integrada.",
+    "preco": "R$ 128,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Porca de Murça",
+    "descricao": "Vinho português alentejano, de aspeto límpido e cor granada viva com aroma muito austero e cheio de personalidade. Ideal para acompanhar carnes assadas ou grelhadas e queijos fortes.",
+    "preco": "R$ 164,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Coco Bambu Reserva Tinto",
+    "descricao": "Produzido com uvas de toda a região com vinhedos de 18 anos em média, é o resultado de parcerias com mais de 15 anos com fornecedores das diferentes sub-regiões, que utilizam o mesmo sistema integrado de produção do Esporão. Estas práticas sustentáveis, que impossibilitam a utilização de pesticidas e herbicidas, são fundamentais para a qualidade e fertilidade do solo, proporcionando à vinha uma proteção natural que influencia a qualidade dos vinhos.",
+    "preco": "R$ 170,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Quinta do Cachão",
+    "descricao": "Produzido com uvas de toda a região com vinhedos de 18 anos em média, é o resultado de parcerias com mais de 15 anos com fornecedores das diferentes sub-regiões, que utilizam o mesmo sistema integrado de produção do Esporão. Estas práticas sustentáveis, que impossibilitam a utilização de pesticidas e herbicidas, são fundamentais para a qualidade e fertilidade do solo, proporcionando à vinha uma proteção natural que influencia a qualidade dos vinhos.",
+    "preco": "R$ 170,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Eugenio De Almeida Ea Cartuxa Tinto",
+    "descricao": "",
+    "preco": "R$ 185,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Reguengos Reserva",
+    "descricao": "Vermelho rubi intenso. Exibe notas de frutos silvestres e compotas de mirtilo, envoltos em café, pimenta do reino e um leve aroma torrado do barril. Na boca é intenso e denso, mas com taninos robustos, conferindo-lhe estrutura e complexidade e sugerindo bom potencial de envelhecimento em garrafa.",
+    "preco": "R$ 459,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Esporão Esporão Reserva Tinto",
+    "descricao": "OlfatoAroma evoluído, notando-se a presença da casta Trincadeira, misturada com as notas quentes da planície alentejana",
+    "preco": "R$ 598,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Quinta da Bacalhôa Tinto",
+    "descricao": "Cereja, Especiarias, Frutas Silvestres, Amora, Framboesa, Morango",
+    "preco": "R$ 898,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Nederburg Foundation Sauvignon Blanc",
+    "descricao": "Elaborado pelo método tradicional. Apresenta cor amarela palha com leves reflexos dourados e perlage persistente. Aromas finos florais e notas de mel. É redondo, fresco e equilibrado, com boa persistência e acidez agradável.",
+    "preco": "R$ 224,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Marques De Toledo Verdejo",
+    "descricao": "Visual: amarelo palha claro e brilhante. Olfativa: frutas cítricas (abacaxi) e notas de ervas frescas. Gustativa: seco, acidez fresca, corpo leve e final muito harmônico.",
+    "preco": "R$ 257,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Los Llanos Pata Negra Verdejo",
+    "descricao": "Aromas de frutas nagrs e baunilha, eqilibrado e macio",
+    "preco": "R$ 284,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Pata Negra Gran Reserva",
+    "descricao": "Um dos grandes nomes do vinho espanhol, reverenciado por Robert Parker, Pesquera, de Alejandro Fernández, produz vinhos de exceção. Apresenta notas frutadas e de especiarias picantes, seguidas de baunilha. Seu paladar é limpo e sedoso. Os toques tostados são provenientes do tempo em que estagiou em carvalho francês e americano de diferentes níveis de tosta. Pronto para beber agora. No entanto, ainda pode evoluir na garrafa. Pode conter sedimentos, pois o vinho não é filtrado, com o objetivo de s",
+    "preco": "R$ 734,00"
+  },
+  {
+    "restaurante": "Coco Bambu",
+    "prato": "Robert Mondavi Woodbridge",
+    "descricao": "Woodbridge White Zinfandel é Versátil, refrescante e levemente adocicado.",
+    "preco": "R$ 288,00"
+  }
+]
