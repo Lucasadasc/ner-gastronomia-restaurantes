@@ -135,7 +135,7 @@ Comparação entre grafos:
 As visualizações geradas estão em:
 
 - `outputs/grafo_camaroes.html`
-- `outputs/grafo_coco_bambu.html`
+- `'outputs/grafo_coco_bambu.html'`
 - `outputs/grafo_camaroes_resumo.html`
 - `outputs/grafo_coco_bambu_resumo.html`
 
@@ -159,7 +159,7 @@ Sugestão para o relatório/apresentação:
 - O cosseno ponderado (0.6477) indica padrão intermediário de proximidade estrutural considerando frequências das co-ocorrências.
 
 5. Implicação metodológica
-- Comparar apenas presença de termos não é suficiente; a estrutura do grafo captura diferenças de composição culinária entre cardápios.
+- Comparar apenas presença de termos não é suficiente; a estrutura do grafo captura diferenças de composição culinária entre cardápios.,
 
 ## Limitações e próximos passos
 

@@ -1,13 +1,3 @@
-"""Trabalho 01 - Analise de cardapios com NER customizado e Teoria de Grafos.
-
-Pipeline:
-1) Leitura dos cardapios em JSON
-2) Extracao de entidades gastronomicas por regras
-3) Construcao de grafo de co-ocorrencia por restaurante
-4) Calculo de metricas estruturais
-5) Comparacao entre grafos e semelhanca entre pratos
-"""
-
 from __future__ import annotations
 
 import argparse  # o argparse é usado para facilitar a execução do script com diferentes parâmetros, como arquivos de entrada e opções de filtragem. Ele permite que o usuário especifique os caminhos dos arquivos JSON dos cardápios, a pasta de saída para as figuras, e os critérios de filtragem para os pratos analisados.
