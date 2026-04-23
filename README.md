@@ -186,3 +186,6 @@ Comentários breves sobre a visualização dos grafos:
 - Tratar sinônimos e variações ortográficas de forma mais robusta.
 - Incluir avaliação quantitativa da qualidade da extração de entidades.
 - Exportar grafos em formatos adicionais (ex.: GEXF/GraphML).
+
+## Link de vídeo da apresentação no Loom
+[Apresentação no Loom](https://www.loom.com/share/87686e91e1ab4907b8d31c2157313fb1)
