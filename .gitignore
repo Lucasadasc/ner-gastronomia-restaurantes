@@ -1,0 +1,6 @@
+# removendo pycache 
+__pycache__/
+# removendo arquivos de log
+*.log
+# removendo arquivos de saída
+outputs/
