@@ -130,19 +130,38 @@ Comparação entre grafos:
 - Nós compartilhados: 41
 - Arestas compartilhadas: 245
 
+Comentários breves sobre os dados:
+
+- Os dois cardápios têm o mesmo número de nós (43), sugerindo vocabulário gastronômico bastante próximo.
+- O Camarões apresenta mais arestas (496 vs 342) e maior densidade (0.5493 vs 0.3787), indicando uma malha de co-ocorrências mais conectada.
+- O Jaccard de nós alto (0.9111) combinado ao Jaccard de arestas moderado (0.4132) mostra que as entidades são parecidas, mas as combinações entre elas mudam de um restaurante para o outro.
+- Como ambos têm 1 componente conectado e maior componente com 43 nós, a diferença principal está no padrão de conexão, não na fragmentação do grafo.
+
 ## Imagens ilustrativas e visualizações
 
 As visualizações geradas estão em:
 
 - `outputs/grafo_camaroes.html`
-- `'outputs/grafo_coco_bambu.html'`
+- `outputs/grafo_coco_bambu.html`
 - `outputs/grafo_camaroes_resumo.html`
 - `outputs/grafo_coco_bambu_resumo.html`
 
-Sugestão para o relatório/apresentação:
+Capturas utilizadas na apresentação:
 
-- Inserir capturas de tela dos HTMLs acima como figuras do documento.
-- Destacar no mínimo: densidade relativa, comunidades visuais e nós mais frequentes.
+Figura 1 - Grafo de co-ocorrência do Camarões.
+
+![Figura 1 - Grafo de co-ocorrência do Camarões](assets/capturas/grafo_camaroes.png)
+
+Figura 2 - Grafo de co-ocorrência do Coco Bambu.
+
+![Figura 2 - Grafo de co-ocorrência do Coco Bambu](assets/capturas/grafo_coco_bambu.png)
+
+Comentários breves sobre a visualização dos grafos:
+
+- No grafo do Camarões, há maior concentração de conexões no núcleo, coerente com a maior densidade observada nas métricas.
+- No grafo do Coco Bambu, a estrutura aparece mais espalhada, com menor número de arestas e mais espaço entre grupos de nós.
+- Os tamanhos dos nós indicam frequência de ocorrência das entidades, ajudando a identificar rapidamente os termos mais centrais de cada cardápio.
+- A espessura das arestas reflete força de co-ocorrência, facilitando a leitura das combinações mais recorrentes entre ingredientes e acompanhamentos.
 
 ## Análise e discussão dos achados
 
@@ -159,7 +178,7 @@ Sugestão para o relatório/apresentação:
 - O cosseno ponderado (0.6477) indica padrão intermediário de proximidade estrutural considerando frequências das co-ocorrências.
 
 5. Implicação metodológica
-- Comparar apenas presença de termos não é suficiente; a estrutura do grafo captura diferenças de composição culinária entre cardápios.,
+- Comparar apenas presença de termos não é suficiente; a estrutura do grafo captura diferenças de composição culinária entre cardápios.
 
 ## Limitações e próximos passos
 
